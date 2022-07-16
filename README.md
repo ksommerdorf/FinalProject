@@ -6,25 +6,25 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 # Project Overview
 
 ## Selected Topic: Real estate market predictions
-        - reason: A pandemic, low supply with a high demand driving the prices of homes drastically up, and increasing mortgage rates. This  has skewed the housing market and made it difficult for homebuyers to purchase property. 
-        - source data: Datasets are taken from [Realtor.com](https://www.realtor.com/research/data/), selected CSVs of interest include:
-            * the RDC Core Metrics by Zipcode Inventory of historical data
-            * zipcode latitude and longitude data sourced from [Github repo](https://github.com/midwire/free_zipcode_data/blob/5f831e3918488751a701b583a419ca3e1d44d93f/all_us_zipcodes.csv)
+- reason: A pandemic, low supply with a high demand driving the prices of homes drastically up, and increasing mortgage rates. This  has skewed the housing market and made it difficult for homebuyers to purchase property. 
+- source data: Datasets are taken from [Realtor.com](https://www.realtor.com/research/data/), selected CSVs of interest include:
+    * the RDC Core Metrics by Zipcode Inventory of historical data
+    * zipcode latitude and longitude data sourced from [Github repo](https://github.com/midwire/free_zipcode_data/blob/5f831e3918488751a701b583a419ca3e1d44d93f/all_us_zipcodes.csv)
 
-        - Questions interested in answering with data
-            * Is the average listing price still rising? Current status suggest the housing market cycle as present may last for several years.
+- Questions interested in answering with data
+    * Is the average listing price still rising? Current status suggest the housing market cycle as present may last for several years.
 
 
 ## Machine Learnining Model
-        - Takes in joined data from datasets 
-            * model type
-            * training setup
-            * what is accuracy and evaluation protocol?
-            * how does it work?
-                * the type and why
+- Takes in joined data from datasets 
+    * model type
+    * training setup
+    * what is accuracy and evaluation protocol?
+    * how does it work?
+    * the type and why
 
-        - connected to database (SQL)
-            *  ERD of the database: Entity Relationship (ER) Diagram that 
+- connected to database (SQL)
+    *  ERD of the database: Entity Relationship (ER) Diagram that 
             illustrates how datasets are relate to each other within a system. 
             Current primary key is postal code of housing lists.
         
@@ -32,6 +32,6 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 
 ## Technology to be Used
 
-        -Database: PostgresSQL and connect with SQLAlchemy
-        -data cleaning and ML model: pandas and pandas ML-environment
-        -Dashboard: Tableau
+- Database: PostgresSQL and connect with SQLAlchemy
+- data cleaning and ML model: pandas and pandas ML-environment
+- Dashboard: Tableau
