@@ -69,6 +69,8 @@ quality_flag
 zipcode
 -
 postal_code pk fk - RDC_Inventory_Core_Metrics_Zip_History.postal_code
-zip_name
-longitude
-latitude
+city
+state
+county
+lat
+lon
