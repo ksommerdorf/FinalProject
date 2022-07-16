@@ -19,9 +19,9 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 - Takes in joined data from datasets 
     * model type
     * training setup
-    * what is accuracy and evaluation protocol?
+    * what is accuracy and evaluation protocol: To be addressed in later stage
     * how does it work?
-    * the type and why
+    * the type and why: to be selected after testing different models for fit.
 
 - connected to database (SQL)
     *  ERD of the database: Entity Relationship (ER) Diagram that 
