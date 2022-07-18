@@ -27,7 +27,7 @@ Utilizing group programming for collaboration, meetings are conducted during cla
     *  ERD of the database: Entity Relationship (ER) Diagram that 
             illustrates how datasets are relate to each other within a system. 
             Current primary key is postal code of housing lists.
-        
+        ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
 
 ## Technology to be Used
