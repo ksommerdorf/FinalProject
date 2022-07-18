@@ -17,10 +17,14 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 
 ## Machine Learnining Model
 - Takes in joined data from datasets 
+
     * model type - David and Courtney tested unsupervised and supervised learning.  They determined the dataset was too large and we will need to narrow the number of features used for analysis. 
 Kayla tested decision trees and clustering with varying degrees of success. Krisha created histograms of the various features to allow us to better understand the data.
 ![Feature Histogram](https://github.com/ksommerdorf/FinalProject/blob/main/images/Histogram_features.png)
- * training setup
+
+
+   
+    * training setup
     * what is accuracy and evaluation protocol: To be addressed in later stage
     * how does it work?
     * the type and why: to be selected after testing different models for fit.
@@ -29,6 +33,10 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
     *  ERD of the database: Entity Relationship (ER) Diagram that 
             illustrates how datasets are related to each other within a system. 
             Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
+
+      illustrates how datasets are relate to each other within a system. 
+            Current primary key is postal code of housing lists.
+
         ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
 
