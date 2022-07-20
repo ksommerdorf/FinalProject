@@ -22,22 +22,15 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 Kayla tested decision trees and clustering with varying degrees of success. Krisha created histograms of the various features to allow us to better understand the data.
 ![Feature Histogram](https://github.com/ksommerdorf/FinalProject/blob/main/images/Histogram_features.png)
 
-
-   
-    * training setup
+* training setup - We will split data into training and testing components.  We will drop median house price for prediction analysis.  Courtney has also created a new binary column "price increase or decrease" that will be an output of the trained model.
     * what is accuracy and evaluation protocol: To be addressed in later stage
-    * how does it work?
     * the type and why: to be selected after testing different models for fit.
 
 - connected to database (SQL)
     *  ERD of the database: Entity Relationship (ER) Diagram that 
             illustrates how datasets are related to each other within a system. 
             Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
-
-      illustrates how datasets are relate to each other within a system. 
-            Current primary key is postal code of housing lists.
-
-        ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
+            ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
 
 ## Technology to be Used
