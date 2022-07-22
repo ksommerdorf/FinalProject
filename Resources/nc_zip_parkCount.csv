@@ -1,0 +1,1081 @@
+ZIP_CODE,PO_NAME,STATE,ZCTA,zip_join_type,count_open_parks
+27006,Advance,NC,27006,Zip matches ZCTA,0
+27007,Ararat,NC,27007,Zip matches ZCTA,0
+27009,Belews Creek,NC,27009,Zip matches ZCTA,0
+27010,Bethania,NC,27106,Spatial join to ZCTA,15
+27106,Winston Salem,NC,27106,Zip matches ZCTA,15
+27116,Winston Salem,NC,27106,Spatial join to ZCTA,15
+27011,Boonville,NC,27011,Zip matches ZCTA,0
+27012,Clemmons,NC,27012,Zip matches ZCTA,2
+27013,Cleveland,NC,27013,Zip matches ZCTA,0
+27014,Cooleemee,NC,27014,Zip matches ZCTA,0
+27016,Danbury,NC,27016,Zip matches ZCTA,0
+27017,Dobson,NC,27017,Zip matches ZCTA,0
+27018,East Bend,NC,27018,Zip matches ZCTA,0
+27019,Germanton,NC,27019,Zip matches ZCTA,1
+27020,Hamptonville,NC,27020,Zip matches ZCTA,0
+27021,King,NC,27021,Zip matches ZCTA,2
+27022,Lawsonville,NC,27022,Zip matches ZCTA,0
+27023,Lewisville,NC,27023,Zip matches ZCTA,5
+27024,Lowgap,NC,27024,Zip matches ZCTA,0
+27025,Madison,NC,27025,Zip matches ZCTA,5
+27027,Mayodan,NC,27027,Zip matches ZCTA,3
+27028,Mocksville,NC,27028,Zip matches ZCTA,1
+27030,Mount Airy,NC,27030,Zip matches ZCTA,5
+27031,Mount Airy,NC,27030,Spatial join to ZCTA,5
+27049,Toast,NC,27030,Spatial join to ZCTA,5
+27040,Pfafftown,NC,27040,Zip matches ZCTA,2
+27041,Pilot Mountain,NC,27041,Zip matches ZCTA,0
+27042,Pine Hall,NC,27042,Zip matches ZCTA,0
+27043,Pinnacle,NC,27043,Zip matches ZCTA,0
+27045,Rural Hall,NC,27045,Zip matches ZCTA,2
+27094,Rural Hall,NC,27045,Spatial join to ZCTA,2
+27098,Rural Hall,NC,27045,Spatial join to ZCTA,2
+27099,Rural Hall,NC,27045,Spatial join to ZCTA,2
+27046,Sandy Ridge,NC,27046,Zip matches ZCTA,0
+27047,Siloam,NC,27047,Zip matches ZCTA,0
+27048,Stoneville,NC,27048,Zip matches ZCTA,1
+27050,Tobaccoville,NC,27050,Zip matches ZCTA,1
+27051,Walkertown,NC,27051,Zip matches ZCTA,3
+27052,Walnut Cove,NC,27052,Zip matches ZCTA,0
+27053,Westfield,NC,27053,Zip matches ZCTA,0
+27054,Woodleaf,NC,27054,Zip matches ZCTA,0
+27055,Yadkinville,NC,27055,Zip matches ZCTA,3
+27101,Winston Salem,NC,27101,Zip matches ZCTA,25
+27108,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27111,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27113,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27120,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27150,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27152,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27155,Winston Salem,NC,27101,Spatial join to ZCTA,25
+27102,Winston Salem,NC,27105,Spatial join to ZCTA,22
+27105,Winston Salem,NC,27105,Zip matches ZCTA,22
+27115,Winston Salem,NC,27105,Spatial join to ZCTA,22
+27198,Winston Salem,NC,27105,Spatial join to ZCTA,22
+27199,Winston Salem,NC,27105,Spatial join to ZCTA,22
+27103,Winston Salem,NC,27103,Zip matches ZCTA,8
+27114,Winston Salem,NC,27103,Spatial join to ZCTA,8
+27130,Winston Salem,NC,27103,Spatial join to ZCTA,8
+27157,Winston Salem,NC,27103,Spatial join to ZCTA,8
+27104,Winston Salem,NC,27104,Zip matches ZCTA,12
+27107,Winston Salem,NC,27107,Zip matches ZCTA,13
+27117,Winston Salem,NC,27107,Spatial join to ZCTA,13
+27373,Wallburg,NC,27107,Spatial join to ZCTA,13
+27109,Winston Salem,NC,27109,Zip matches ZCTA,0
+27110,Winston Salem,NC,27110,Zip matches ZCTA,2
+27127,Winston Salem,NC,27127,Zip matches ZCTA,10
+27201,Alamance,NC,27201,Zip matches ZCTA,0
+27202,Altamahaw,NC,27244,Spatial join to ZCTA,2
+27244,Elon,NC,27244,Zip matches ZCTA,2
+27203,Asheboro,NC,27203,Zip matches ZCTA,11
+27204,Asheboro,NC,27203,Spatial join to ZCTA,11
+27205,Asheboro,NC,27205,Zip matches ZCTA,3
+27207,Bear Creek,NC,27207,Zip matches ZCTA,0
+27208,Bennett,NC,27208,Zip matches ZCTA,0
+27209,Biscoe,NC,27209,Zip matches ZCTA,1
+27212,Blanch,NC,27212,Zip matches ZCTA,0
+27213,Bonlee,NC,27344,Spatial join to ZCTA,5
+27344,Siler City,NC,27344,Zip matches ZCTA,5
+27214,Browns Summit,NC,27214,Zip matches ZCTA,11
+27215,Burlington,NC,27215,Zip matches ZCTA,8
+27216,Burlington,NC,27215,Spatial join to ZCTA,8
+27217,Burlington,NC,27217,Zip matches ZCTA,11
+27228,Bynum,NC,27312,Spatial join to ZCTA,10
+27312,Pittsboro,NC,27312,Zip matches ZCTA,10
+27229,Candor,NC,27229,Zip matches ZCTA,0
+27230,Cedar Falls,NC,27248,Spatial join to ZCTA,3
+27248,Franklinville,NC,27248,Zip matches ZCTA,3
+27231,Cedar Grove,NC,27231,Zip matches ZCTA,0
+27233,Climax,NC,27233,Zip matches ZCTA,0
+27235,Colfax,NC,27235,Zip matches ZCTA,1
+27237,Cumnock,NC,27330,Spatial join to ZCTA,9
+27330,Sanford,NC,27330,Zip matches ZCTA,9
+27331,Sanford,NC,27330,Spatial join to ZCTA,9
+27239,Denton,NC,27239,Zip matches ZCTA,1
+27242,Eagle Springs,NC,27242,Zip matches ZCTA,0
+27243,Efland,NC,27243,Zip matches ZCTA,0
+27247,Ether,NC,27356,Spatial join to ZCTA,2
+27356,Star,NC,27356,Zip matches ZCTA,2
+27249,Gibsonville,NC,27249,Zip matches ZCTA,3
+27342,Sedalia,NC,27249,Spatial join to ZCTA,3
+27252,Goldston,NC,27252,Zip matches ZCTA,0
+27256,Gulf,NC,27252,Spatial join to ZCTA,0
+27253,Graham,NC,27253,Zip matches ZCTA,4
+27359,Swepsonville,NC,27253,Spatial join to ZCTA,4
+27258,Haw River,NC,27258,Zip matches ZCTA,1
+27259,Highfalls,NC,27325,Spatial join to ZCTA,0
+27325,Robbins,NC,27325,Zip matches ZCTA,0
+27260,High Point,NC,27260,Zip matches ZCTA,20
+27261,High Point,NC,27260,Spatial join to ZCTA,20
+27268,High Point,NC,27260,Spatial join to ZCTA,20
+27262,High Point,NC,27262,Zip matches ZCTA,12
+27263,High Point,NC,27263,Zip matches ZCTA,3
+27264,High Point,NC,27263,Spatial join to ZCTA,3
+27265,High Point,NC,27265,Zip matches ZCTA,13
+27278,Hillsborough,NC,27278,Zip matches ZCTA,8
+27281,Jackson Springs,NC,27281,Zip matches ZCTA,0
+27282,Jamestown,NC,27282,Zip matches ZCTA,4
+27283,Julian,NC,27283,Zip matches ZCTA,0
+27284,Kernersville,NC,27284,Zip matches ZCTA,13
+27285,Kernersville,NC,27284,Spatial join to ZCTA,13
+27288,Eden,NC,27288,Zip matches ZCTA,4
+27289,Eden,NC,27288,Spatial join to ZCTA,4
+27291,Leasburg,NC,27291,Zip matches ZCTA,0
+27292,Lexington,NC,27292,Zip matches ZCTA,9
+27293,Lexington,NC,27292,Spatial join to ZCTA,9
+27294,Lexington,NC,27292,Spatial join to ZCTA,9
+27351,Southmont,NC,27292,Spatial join to ZCTA,9
+27295,Lexington,NC,27295,Zip matches ZCTA,1
+27374,Welcome,NC,27295,Spatial join to ZCTA,1
+27298,Liberty,NC,27298,Zip matches ZCTA,0
+27299,Linwood,NC,27299,Zip matches ZCTA,1
+27301,Mc Leansville,NC,27301,Zip matches ZCTA,1
+27302,Mebane,NC,27302,Zip matches ZCTA,6
+27305,Milton,NC,27305,Zip matches ZCTA,0
+27306,Mount Gilead,NC,27306,Zip matches ZCTA,0
+27310,Oak Ridge,NC,27310,Zip matches ZCTA,1
+27311,Pelham,NC,27311,Zip matches ZCTA,0
+27313,Pleasant Garden,NC,27313,Zip matches ZCTA,3
+27314,Prospect Hill,NC,27314,Zip matches ZCTA,0
+27315,Providence,NC,27315,Zip matches ZCTA,0
+27316,Ramseur,NC,27316,Zip matches ZCTA,1
+27317,Randleman,NC,27317,Zip matches ZCTA,2
+27320,Reidsville,NC,27320,Zip matches ZCTA,15
+27323,Reidsville,NC,27320,Spatial join to ZCTA,15
+27375,Wentworth,NC,27320,Spatial join to ZCTA,15
+27326,Ruffin,NC,27326,Zip matches ZCTA,0
+27332,Sanford,NC,27332,Zip matches ZCTA,2
+28355,Lemon Springs,NC,27332,Spatial join to ZCTA,2
+28368,Olivia,NC,27332,Spatial join to ZCTA,2
+27340,Saxapahaw,NC,27340,Zip matches ZCTA,0
+27341,Seagrove,NC,27341,Zip matches ZCTA,0
+27343,Semora,NC,27343,Zip matches ZCTA,0
+27349,Snow Camp,NC,27349,Zip matches ZCTA,0
+27350,Sophia,NC,27350,Zip matches ZCTA,1
+27355,Staley,NC,27355,Zip matches ZCTA,0
+27357,Stokesdale,NC,27357,Zip matches ZCTA,2
+27358,Summerfield,NC,27358,Zip matches ZCTA,10
+27360,Thomasville,NC,27360,Zip matches ZCTA,9
+27361,Thomasville,NC,27360,Spatial join to ZCTA,9
+27370,Trinity,NC,27370,Zip matches ZCTA,0
+27371,Troy,NC,27371,Zip matches ZCTA,4
+27376,West End,NC,27376,Zip matches ZCTA,2
+27377,Whitsett,NC,27377,Zip matches ZCTA,2
+27379,Yanceyville,NC,27379,Zip matches ZCTA,0
+27401,Greensboro,NC,27401,Zip matches ZCTA,27
+27402,Greensboro,NC,27401,Spatial join to ZCTA,27
+27411,Greensboro,NC,27401,Spatial join to ZCTA,27
+27420,Greensboro,NC,27401,Spatial join to ZCTA,27
+27429,Greensboro,NC,27401,Spatial join to ZCTA,27
+27435,Greensboro,NC,27401,Spatial join to ZCTA,27
+27403,Greensboro,NC,27403,Zip matches ZCTA,23
+27412,Greensboro,NC,27403,Spatial join to ZCTA,23
+27413,Greensboro,NC,27403,Spatial join to ZCTA,23
+27404,Greensboro,NC,27408,Spatial join to ZCTA,27
+27408,Greensboro,NC,27408,Zip matches ZCTA,27
+27438,Greensboro,NC,27408,Spatial join to ZCTA,27
+27405,Greensboro,NC,27405,Zip matches ZCTA,31
+27415,Greensboro,NC,27405,Spatial join to ZCTA,31
+27406,Greensboro,NC,27406,Zip matches ZCTA,47
+27416,Greensboro,NC,27406,Spatial join to ZCTA,47
+27407,Greensboro,NC,27407,Zip matches ZCTA,22
+27417,Greensboro,NC,27407,Spatial join to ZCTA,22
+27427,Greensboro,NC,27407,Spatial join to ZCTA,22
+27495,Greensboro,NC,27407,Spatial join to ZCTA,22
+27499,Greensboro,NC,27407,Spatial join to ZCTA,22
+27409,Greensboro,NC,27409,Zip matches ZCTA,4
+27419,Greensboro,NC,27409,Spatial join to ZCTA,4
+27425,Greensboro,NC,27409,Spatial join to ZCTA,4
+27497,Greensboro,NC,27409,Spatial join to ZCTA,4
+27498,Greensboro,NC,27409,Spatial join to ZCTA,4
+27410,Greensboro,NC,27410,Zip matches ZCTA,42
+27455,Greensboro,NC,27455,Zip matches ZCTA,21
+27501,Angier,NC,27501,Zip matches ZCTA,1
+27502,Apex,NC,27502,Zip matches ZCTA,15
+27503,Bahama,NC,27503,Zip matches ZCTA,3
+27504,Benson,NC,27504,Zip matches ZCTA,3
+27505,Broadway,NC,27505,Zip matches ZCTA,0
+27506,Buies Creek,NC,27546,Spatial join to ZCTA,3
+27546,Lillington,NC,27546,Zip matches ZCTA,3
+27552,Mamers,NC,27546,Spatial join to ZCTA,3
+27507,Bullock,NC,27507,Zip matches ZCTA,0
+27508,Bunn,NC,27508,Zip matches ZCTA,0
+27509,Butner,NC,27509,Zip matches ZCTA,4
+27510,Carrboro,NC,27510,Zip matches ZCTA,5
+27511,Cary,NC,27511,Zip matches ZCTA,17
+27512,Cary,NC,27511,Spatial join to ZCTA,17
+27513,Cary,NC,27513,Zip matches ZCTA,15
+27514,Chapel Hill,NC,27514,Zip matches ZCTA,5
+27515,Chapel Hill,NC,27514,Spatial join to ZCTA,5
+27599,Chapel Hill,NC,27514,Spatial join to ZCTA,5
+27516,Chapel Hill,NC,27516,Zip matches ZCTA,11
+27517,Chapel Hill,NC,27517,Zip matches ZCTA,7
+27518,Cary,NC,27518,Zip matches ZCTA,7
+27519,Cary,NC,27519,Zip matches ZCTA,11
+27520,Clayton,NC,27520,Zip matches ZCTA,6
+27528,Clayton,NC,27520,Spatial join to ZCTA,6
+27521,Coats,NC,27521,Zip matches ZCTA,1
+27522,Creedmoor,NC,27522,Zip matches ZCTA,3
+27523,Apex,NC,27523,Zip matches ZCTA,5
+27524,Four Oaks,NC,27524,Zip matches ZCTA,1
+27525,Franklinton,NC,27525,Zip matches ZCTA,0
+27526,Fuquay Varina,NC,27526,Zip matches ZCTA,26
+27543,Kipling,NC,27526,Spatial join to ZCTA,26
+27527,Clayton,NC,27527,Zip matches ZCTA,4
+27529,Garner,NC,27529,Zip matches ZCTA,34
+27530,Goldsboro,NC,27530,Zip matches ZCTA,11
+27533,Goldsboro,NC,27530,Spatial join to ZCTA,11
+27531,Goldsboro,NC,27531,Zip matches ZCTA,0
+27532,Goldsboro,NC,27534,Spatial join to ZCTA,4
+27534,Goldsboro,NC,27534,Zip matches ZCTA,4
+27536,Henderson,NC,27536,Zip matches ZCTA,7
+27537,Henderson,NC,27537,Zip matches ZCTA,1
+27584,Townsville,NC,27537,Spatial join to ZCTA,1
+27539,Apex,NC,27539,Zip matches ZCTA,10
+27540,Holly Springs,NC,27540,Zip matches ZCTA,22
+27541,Hurdle Mills,NC,27541,Zip matches ZCTA,0
+27542,Kenly,NC,27542,Zip matches ZCTA,0
+27544,Kittrell,NC,27544,Zip matches ZCTA,0
+27545,Knightdale,NC,27545,Zip matches ZCTA,24
+27549,Louisburg,NC,27549,Zip matches ZCTA,3
+27551,Macon,NC,27551,Zip matches ZCTA,0
+27586,Vaughan,NC,27551,Spatial join to ZCTA,0
+27553,Manson,NC,27553,Zip matches ZCTA,0
+27555,Micro,NC,27555,Zip matches ZCTA,0
+27556,Middleburg,NC,27556,Zip matches ZCTA,0
+27557,Middlesex,NC,27557,Zip matches ZCTA,0
+27559,Moncure,NC,27559,Zip matches ZCTA,0
+27560,Morrisville,NC,27560,Zip matches ZCTA,18
+27562,New Hill,NC,27562,Zip matches ZCTA,1
+27563,Norlina,NC,27563,Zip matches ZCTA,0
+27570,Ridgeway,NC,27563,Spatial join to ZCTA,0
+27594,Wise,NC,27563,Spatial join to ZCTA,0
+27565,Oxford,NC,27565,Zip matches ZCTA,6
+27568,Pine Level,NC,27568,Zip matches ZCTA,0
+27569,Princeton,NC,27569,Zip matches ZCTA,0
+27571,Rolesville,NC,27571,Zip matches ZCTA,4
+27572,Rougemont,NC,27572,Zip matches ZCTA,0
+27573,Roxboro,NC,27573,Zip matches ZCTA,3
+27574,Roxboro,NC,27574,Zip matches ZCTA,0
+27576,Selma,NC,27576,Zip matches ZCTA,8
+27577,Smithfield,NC,27577,Zip matches ZCTA,8
+27593,Wilsons Mills,NC,27577,Spatial join to ZCTA,8
+27581,Stem,NC,27581,Zip matches ZCTA,1
+27582,Stovall,NC,27582,Zip matches ZCTA,0
+27583,Timberlake,NC,27583,Zip matches ZCTA,0
+27587,Wake Forest,NC,27587,Zip matches ZCTA,46
+27588,Wake Forest,NC,27587,Spatial join to ZCTA,46
+27589,Warrenton,NC,27589,Zip matches ZCTA,0
+27591,Wendell,NC,27591,Zip matches ZCTA,16
+27592,Willow Spring,NC,27592,Zip matches ZCTA,2
+27596,Youngsville,NC,27596,Zip matches ZCTA,3
+27597,Zebulon,NC,27597,Zip matches ZCTA,5
+27601,Raleigh,NC,27601,Zip matches ZCTA,26
+27602,Raleigh,NC,27601,Spatial join to ZCTA,26
+27611,Raleigh,NC,27601,Spatial join to ZCTA,26
+27626,Raleigh,NC,27601,Spatial join to ZCTA,26
+27634,Raleigh,NC,27601,Spatial join to ZCTA,26
+27698,Raleigh,NC,27601,Spatial join to ZCTA,26
+27699,Raleigh,NC,27601,Spatial join to ZCTA,26
+27603,Raleigh,NC,27603,Zip matches ZCTA,55
+27604,Raleigh,NC,27604,Zip matches ZCTA,48
+27625,Raleigh,NC,27604,Spatial join to ZCTA,48
+27629,Raleigh,NC,27604,Spatial join to ZCTA,48
+27635,Raleigh,NC,27604,Spatial join to ZCTA,48
+27640,Raleigh,NC,27604,Spatial join to ZCTA,48
+27605,Raleigh,NC,27605,Zip matches ZCTA,6
+27606,Raleigh,NC,27606,Zip matches ZCTA,33
+27621,Raleigh,NC,27606,Spatial join to ZCTA,33
+27627,Raleigh,NC,27606,Spatial join to ZCTA,33
+27607,Raleigh,NC,27607,Zip matches ZCTA,34
+27636,Raleigh,NC,27607,Spatial join to ZCTA,34
+27650,Raleigh,NC,27607,Spatial join to ZCTA,34
+27695,Raleigh,NC,27607,Spatial join to ZCTA,34
+27608,Raleigh,NC,27608,Zip matches ZCTA,26
+27628,Raleigh,NC,27608,Spatial join to ZCTA,26
+27609,Raleigh,NC,27609,Zip matches ZCTA,42
+27619,Raleigh,NC,27609,Spatial join to ZCTA,42
+27622,Raleigh,NC,27609,Spatial join to ZCTA,42
+27668,Raleigh,NC,27609,Spatial join to ZCTA,42
+27610,Raleigh,NC,27610,Zip matches ZCTA,84
+27620,Raleigh,NC,27610,Spatial join to ZCTA,84
+27697,Raleigh,NC,27610,Spatial join to ZCTA,84
+27612,Raleigh,NC,27612,Zip matches ZCTA,38
+27656,Raleigh,NC,27612,Spatial join to ZCTA,38
+27690,Raleigh,NC,27612,Spatial join to ZCTA,38
+27613,Raleigh,NC,27613,Zip matches ZCTA,17
+27614,Raleigh,NC,27614,Zip matches ZCTA,13
+27615,Raleigh,NC,27615,Zip matches ZCTA,31
+27624,Raleigh,NC,27615,Spatial join to ZCTA,31
+27616,Raleigh,NC,27616,Zip matches ZCTA,36
+27658,Raleigh,NC,27616,Spatial join to ZCTA,36
+27661,Raleigh,NC,27616,Spatial join to ZCTA,36
+27617,Raleigh,NC,27617,Zip matches ZCTA,14
+27623,Raleigh,NC,27617,Spatial join to ZCTA,14
+27675,Raleigh,NC,27617,Spatial join to ZCTA,14
+27676,Raleigh,NC,27617,Spatial join to ZCTA,14
+27701,Durham,NC,27701,Zip matches ZCTA,28
+27702,Durham,NC,27701,Spatial join to ZCTA,28
+27706,Durham,NC,27701,Spatial join to ZCTA,28
+27703,Durham,NC,27703,Zip matches ZCTA,19
+27704,Durham,NC,27704,Zip matches ZCTA,23
+27705,Durham,NC,27705,Zip matches ZCTA,30
+27708,Durham,NC,27705,Spatial join to ZCTA,30
+27710,Durham,NC,27705,Spatial join to ZCTA,30
+27715,Durham,NC,27705,Spatial join to ZCTA,30
+27707,Durham,NC,27707,Zip matches ZCTA,30
+27717,Durham,NC,27707,Spatial join to ZCTA,30
+27709,Durham,NC,27709,Zip matches ZCTA,0
+27711,Durham,NC,27713,Spatial join to ZCTA,11
+27713,Durham,NC,27713,Zip matches ZCTA,11
+27712,Durham,NC,27712,Zip matches ZCTA,14
+27722,Durham,NC,27712,Spatial join to ZCTA,14
+27801,Rocky Mount,NC,27801,Zip matches ZCTA,16
+27802,Rocky Mount,NC,27801,Spatial join to ZCTA,16
+27815,Rocky Mount,NC,27801,Spatial join to ZCTA,16
+27803,Rocky Mount,NC,27803,Zip matches ZCTA,10
+27804,Rocky Mount,NC,27804,Zip matches ZCTA,15
+27805,Aulander,NC,27805,Zip matches ZCTA,0
+27806,Aurora,NC,27806,Zip matches ZCTA,0
+27807,Bailey,NC,27807,Zip matches ZCTA,0
+27808,Bath,NC,27808,Zip matches ZCTA,0
+27809,Battleboro,NC,27809,Zip matches ZCTA,1
+27810,Belhaven,NC,27810,Zip matches ZCTA,0
+27811,Bellarthur,NC,27834,Spatial join to ZCTA,12
+27833,Greenville,NC,27834,Spatial join to ZCTA,12
+27834,Greenville,NC,27834,Zip matches ZCTA,12
+27835,Greenville,NC,27834,Spatial join to ZCTA,12
+27812,Bethel,NC,27812,Zip matches ZCTA,0
+27813,Black Creek,NC,27813,Zip matches ZCTA,0
+27814,Blounts Creek,NC,27814,Zip matches ZCTA,0
+27816,Castalia,NC,27816,Zip matches ZCTA,0
+27817,Chocowinity,NC,27817,Zip matches ZCTA,1
+27818,Como,NC,27818,Zip matches ZCTA,0
+27819,Conetoe,NC,27819,Zip matches ZCTA,0
+27820,Conway,NC,27820,Zip matches ZCTA,0
+27821,Edward,NC,27821,Zip matches ZCTA,0
+27822,Elm City,NC,27822,Zip matches ZCTA,2
+27823,Enfield,NC,27823,Zip matches ZCTA,2
+27824,Engelhard,NC,27824,Zip matches ZCTA,0
+27825,Everetts,NC,27825,Zip matches ZCTA,0
+27826,Fairfield,NC,27826,Zip matches ZCTA,0
+27827,Falkland,NC,27827,Zip matches ZCTA,0
+27828,Farmville,NC,27828,Zip matches ZCTA,5
+27829,Fountain,NC,27829,Zip matches ZCTA,0
+27830,Fremont,NC,27830,Zip matches ZCTA,0
+27831,Garysburg,NC,27831,Zip matches ZCTA,2
+27832,Gaston,NC,27832,Zip matches ZCTA,1
+27836,Greenville,NC,27858,Spatial join to ZCTA,8
+27858,Greenville,NC,27858,Zip matches ZCTA,8
+27837,Grimesland,NC,27837,Zip matches ZCTA,0
+27839,Halifax,NC,27839,Zip matches ZCTA,0
+27887,Tillery,NC,27839,Spatial join to ZCTA,0
+27840,Hamilton,NC,27840,Zip matches ZCTA,0
+27841,Hassell,NC,27841,Zip matches ZCTA,0
+27842,Henrico,NC,27842,Zip matches ZCTA,0
+27843,Hobgood,NC,27843,Zip matches ZCTA,0
+27844,Hollister,NC,27844,Zip matches ZCTA,0
+27845,Jackson,NC,27845,Zip matches ZCTA,0
+27846,Jamesville,NC,27846,Zip matches ZCTA,0
+27847,Kelford,NC,27847,Zip matches ZCTA,0
+27849,Lewiston Woodville,NC,27849,Zip matches ZCTA,0
+27850,Littleton,NC,27850,Zip matches ZCTA,0
+27851,Lucama,NC,27851,Zip matches ZCTA,0
+27852,Macclesfield,NC,27852,Zip matches ZCTA,0
+27853,Margarettsville,NC,27853,Zip matches ZCTA,0
+27855,Murfreesboro,NC,27855,Zip matches ZCTA,1
+27856,Nashville,NC,27856,Zip matches ZCTA,5
+27868,Red Oak,NC,27856,Spatial join to ZCTA,5
+27857,Oak City,NC,27857,Zip matches ZCTA,0
+27860,Pantego,NC,27860,Zip matches ZCTA,0
+27861,Parmele,NC,27861,Zip matches ZCTA,0
+27862,Pendleton,NC,27862,Zip matches ZCTA,0
+27877,Severn,NC,27862,Spatial join to ZCTA,0
+27863,Pikeville,NC,27863,Zip matches ZCTA,1
+27864,Pinetops,NC,27864,Zip matches ZCTA,0
+27865,Pinetown,NC,27865,Zip matches ZCTA,0
+27866,Pleasant Hill,NC,27866,Zip matches ZCTA,0
+27867,Potecasi,NC,27897,Spatial join to ZCTA,0
+27897,Woodland,NC,27897,Zip matches ZCTA,0
+27869,Rich Square,NC,27869,Zip matches ZCTA,0
+27870,Roanoke Rapids,NC,27870,Zip matches ZCTA,7
+27871,Robersonville,NC,27871,Zip matches ZCTA,0
+27872,Roxobel,NC,27872,Zip matches ZCTA,0
+27873,Saratoga,NC,27873,Zip matches ZCTA,0
+27874,Scotland Neck,NC,27874,Zip matches ZCTA,0
+27875,Scranton,NC,27875,Zip matches ZCTA,0
+27876,Seaboard,NC,27876,Zip matches ZCTA,0
+27878,Sharpsburg,NC,27878,Zip matches ZCTA,1
+27879,Simpson,NC,27879,Zip matches ZCTA,1
+27880,Sims,NC,27880,Zip matches ZCTA,0
+27881,Speed,NC,27881,Zip matches ZCTA,0
+27882,Spring Hope,NC,27882,Zip matches ZCTA,0
+27883,Stantonsburg,NC,27883,Zip matches ZCTA,0
+27884,Stokes,NC,27884,Zip matches ZCTA,0
+27885,Swanquarter,NC,27885,Zip matches ZCTA,0
+27886,Tarboro,NC,27886,Zip matches ZCTA,10
+27888,Walstonburg,NC,27888,Zip matches ZCTA,0
+27889,Washington,NC,27889,Zip matches ZCTA,8
+27890,Weldon,NC,27890,Zip matches ZCTA,1
+27891,Whitakers,NC,27891,Zip matches ZCTA,0
+27892,Williamston,NC,27892,Zip matches ZCTA,6
+27893,Wilson,NC,27893,Zip matches ZCTA,18
+27894,Wilson,NC,27893,Spatial join to ZCTA,18
+27895,Wilson,NC,27893,Spatial join to ZCTA,18
+27896,Wilson,NC,27896,Zip matches ZCTA,4
+27906,Elizabeth City,NC,27909,Spatial join to ZCTA,7
+27907,Elizabeth City,NC,27909,Spatial join to ZCTA,7
+27909,Elizabeth City,NC,27909,Zip matches ZCTA,7
+27910,Ahoskie,NC,27910,Zip matches ZCTA,2
+27915,Avon,NC,27915,Zip matches ZCTA,0
+27916,Aydlett,NC,27916,Zip matches ZCTA,0
+27917,Barco,NC,27917,Zip matches ZCTA,0
+27919,Belvidere,NC,27919,Zip matches ZCTA,0
+27920,Buxton,NC,27920,Zip matches ZCTA,0
+27921,Camden,NC,27921,Zip matches ZCTA,0
+27922,Cofield,NC,27922,Zip matches ZCTA,0
+27923,Coinjock,NC,27923,Zip matches ZCTA,0
+27924,Colerain,NC,27924,Zip matches ZCTA,0
+27925,Columbia,NC,27925,Zip matches ZCTA,0
+27926,Corapeake,NC,27926,Zip matches ZCTA,1
+27927,Corolla,NC,27927,Zip matches ZCTA,1
+27928,Creswell,NC,27928,Zip matches ZCTA,0
+27929,Currituck,NC,27929,Zip matches ZCTA,0
+27930,Hertford,NC,27944,Spatial join to ZCTA,0
+27944,Hertford,NC,27944,Zip matches ZCTA,0
+27932,Edenton,NC,27932,Zip matches ZCTA,4
+27935,Eure,NC,27935,Zip matches ZCTA,0
+27969,Roduco,NC,27935,Spatial join to ZCTA,0
+27936,Frisco,NC,27936,Zip matches ZCTA,0
+27937,Gates,NC,27937,Zip matches ZCTA,0
+27938,Gatesville,NC,27938,Zip matches ZCTA,0
+27939,Grandy,NC,27939,Zip matches ZCTA,0
+27941,Harbinger,NC,27941,Zip matches ZCTA,0
+27942,Harrellsville,NC,27942,Zip matches ZCTA,0
+27943,Hatteras,NC,27943,Zip matches ZCTA,0
+27946,Hobbsville,NC,27946,Zip matches ZCTA,0
+27947,Jarvisburg,NC,27947,Zip matches ZCTA,0
+27948,Kill Devil Hills,NC,27948,Zip matches ZCTA,3
+27949,Kitty Hawk,NC,27949,Zip matches ZCTA,4
+27950,Knotts Island,NC,27950,Zip matches ZCTA,0
+27953,Manns Harbor,NC,27953,Zip matches ZCTA,1
+27954,Manteo,NC,27954,Zip matches ZCTA,7
+27956,Maple,NC,27956,Zip matches ZCTA,0
+27957,Merry Hill,NC,27957,Zip matches ZCTA,0
+27958,Moyock,NC,27958,Zip matches ZCTA,0
+27959,Nags Head,NC,27959,Zip matches ZCTA,7
+27960,Ocracoke,NC,27960,Zip matches ZCTA,0
+27962,Plymouth,NC,27962,Zip matches ZCTA,9
+27964,Point Harbor,NC,27964,Zip matches ZCTA,1
+27965,Poplar Branch,NC,27965,Zip matches ZCTA,0
+27966,Powells Point,NC,27966,Zip matches ZCTA,1
+27967,Powellsville,NC,27967,Zip matches ZCTA,0
+27968,Rodanthe,NC,27968,Zip matches ZCTA,0
+27970,Roper,NC,27970,Zip matches ZCTA,0
+27972,Salvo,NC,27972,Zip matches ZCTA,0
+27973,Shawboro,NC,27973,Zip matches ZCTA,0
+27974,Shiloh,NC,27974,Zip matches ZCTA,0
+27976,South Mills,NC,27976,Zip matches ZCTA,2
+27978,Stumpy Point,NC,27978,Zip matches ZCTA,0
+27979,Sunbury,NC,27979,Zip matches ZCTA,1
+27980,Tyner,NC,27980,Zip matches ZCTA,0
+27981,Wanchese,NC,27981,Zip matches ZCTA,0
+27982,Waves,NC,27982,Zip matches ZCTA,0
+27983,Windsor,NC,27983,Zip matches ZCTA,8
+27985,Winfall,NC,27985,Zip matches ZCTA,0
+27986,Winton,NC,27986,Zip matches ZCTA,0
+28001,Albemarle,NC,28001,Zip matches ZCTA,8
+28002,Albemarle,NC,28001,Spatial join to ZCTA,8
+28006,Alexis,NC,28006,Zip matches ZCTA,0
+28007,Ansonville,NC,28007,Zip matches ZCTA,0
+28009,Badin,NC,28009,Zip matches ZCTA,0
+28010,Barium Springs,NC,28677,Spatial join to ZCTA,15
+28677,Statesville,NC,28677,Zip matches ZCTA,15
+28687,Statesville,NC,28677,Spatial join to ZCTA,15
+28012,Belmont,NC,28012,Zip matches ZCTA,7
+28016,Bessemer City,NC,28016,Zip matches ZCTA,5
+28017,Boiling Springs,NC,28017,Zip matches ZCTA,0
+28018,Bostic,NC,28018,Zip matches ZCTA,2
+28019,Caroleen,NC,28019,Zip matches ZCTA,0
+28020,Casar,NC,28020,Zip matches ZCTA,1
+28021,Cherryville,NC,28021,Zip matches ZCTA,7
+28023,China Grove,NC,28023,Zip matches ZCTA,5
+28024,Cliffside,NC,28076,Spatial join to ZCTA,0
+28076,Henrietta,NC,28076,Zip matches ZCTA,0
+28025,Concord,NC,28025,Zip matches ZCTA,8
+28026,Concord,NC,28025,Spatial join to ZCTA,8
+28027,Concord,NC,28027,Zip matches ZCTA,5
+28031,Cornelius,NC,28031,Zip matches ZCTA,16
+28032,Cramerton,NC,28032,Zip matches ZCTA,3
+28033,Crouse,NC,28033,Zip matches ZCTA,0
+28034,Dallas,NC,28034,Zip matches ZCTA,6
+28035,Davidson,NC,28036,Spatial join to ZCTA,20
+28036,Davidson,NC,28036,Zip matches ZCTA,20
+28037,Denver,NC,28037,Zip matches ZCTA,1
+28038,Earl,NC,28073,Spatial join to ZCTA,0
+28073,Grover,NC,28073,Zip matches ZCTA,0
+28039,East Spencer,NC,28039,Zip matches ZCTA,0
+28040,Ellenboro,NC,28040,Zip matches ZCTA,1
+28041,Faith,NC,28146,Spatial join to ZCTA,4
+28146,Salisbury,NC,28146,Zip matches ZCTA,4
+28042,Fallston,NC,28090,Spatial join to ZCTA,0
+28090,Lawndale,NC,28090,Zip matches ZCTA,0
+28043,Forest City,NC,28043,Zip matches ZCTA,4
+28052,Gastonia,NC,28052,Zip matches ZCTA,10
+28053,Gastonia,NC,28052,Spatial join to ZCTA,10
+28054,Gastonia,NC,28054,Zip matches ZCTA,14
+28055,Gastonia,NC,28054,Spatial join to ZCTA,14
+28056,Gastonia,NC,28056,Zip matches ZCTA,3
+28070,Huntersville,NC,28078,Spatial join to ZCTA,17
+28078,Huntersville,NC,28078,Zip matches ZCTA,17
+28071,Gold Hill,NC,28071,Zip matches ZCTA,0
+28072,Granite Quarry,NC,28072,Zip matches ZCTA,1
+28074,Harris,NC,28139,Spatial join to ZCTA,2
+28139,Rutherfordton,NC,28139,Zip matches ZCTA,2
+28075,Harrisburg,NC,28075,Zip matches ZCTA,3
+28077,High Shoals,NC,28077,Zip matches ZCTA,1
+28079,Indian Trail,NC,28079,Zip matches ZCTA,67
+28080,Iron Station,NC,28080,Zip matches ZCTA,0
+28081,Kannapolis,NC,28081,Zip matches ZCTA,6
+28082,Kannapolis,NC,28083,Spatial join to ZCTA,0
+28083,Kannapolis,NC,28083,Zip matches ZCTA,0
+28086,Kings Mountain,NC,28086,Zip matches ZCTA,3
+28088,Landis,NC,28088,Zip matches ZCTA,3
+28089,Lattimore,NC,28089,Zip matches ZCTA,0
+28091,Lilesville,NC,28091,Zip matches ZCTA,0
+28092,Lincolnton,NC,28092,Zip matches ZCTA,4
+28093,Lincolnton,NC,28092,Spatial join to ZCTA,4
+28097,Locust,NC,28097,Zip matches ZCTA,2
+28098,Lowell,NC,28098,Zip matches ZCTA,2
+28101,Mc Adenville,NC,28101,Zip matches ZCTA,2
+28102,Mc Farlan,NC,28102,Zip matches ZCTA,0
+28103,Marshville,NC,28103,Zip matches ZCTA,2
+28104,Matthews,NC,28104,Zip matches ZCTA,4
+28105,Matthews,NC,28105,Zip matches ZCTA,17
+28106,Matthews,NC,28105,Spatial join to ZCTA,17
+28107,Midland,NC,28107,Zip matches ZCTA,1
+28108,Mineral Springs,NC,28108,Zip matches ZCTA,0
+28109,Misenheimer,NC,28109,Zip matches ZCTA,0
+28110,Monroe,NC,28110,Zip matches ZCTA,9
+28111,Monroe,NC,28112,Spatial join to ZCTA,4
+28112,Monroe,NC,28112,Zip matches ZCTA,4
+28114,Mooresboro,NC,28114,Zip matches ZCTA,0
+28115,Mooresville,NC,28115,Zip matches ZCTA,9
+28123,Mount Mourne,NC,28115,Spatial join to ZCTA,9
+28117,Mooresville,NC,28117,Zip matches ZCTA,3
+28119,Morven,NC,28119,Zip matches ZCTA,0
+28120,Mount Holly,NC,28120,Zip matches ZCTA,6
+28124,Mount Pleasant,NC,28124,Zip matches ZCTA,0
+28125,Mount Ulla,NC,28125,Zip matches ZCTA,0
+28126,Newell,NC,28213,Spatial join to ZCTA,11
+28213,Charlotte,NC,28213,Zip matches ZCTA,11
+28223,Charlotte,NC,28213,Spatial join to ZCTA,11
+28256,Charlotte,NC,28213,Spatial join to ZCTA,11
+28127,New London,NC,28127,Zip matches ZCTA,1
+28128,Norwood,NC,28128,Zip matches ZCTA,0
+28129,Oakboro,NC,28129,Zip matches ZCTA,0
+28130,Paw Creek,NC,28214,Spatial join to ZCTA,16
+28214,Charlotte,NC,28214,Zip matches ZCTA,16
+28133,Peachland,NC,28133,Zip matches ZCTA,0
+28134,Pineville,NC,28134,Zip matches ZCTA,8
+28135,Polkton,NC,28135,Zip matches ZCTA,0
+28136,Polkville,NC,28150,Spatial join to ZCTA,6
+28150,Shelby,NC,28150,Zip matches ZCTA,6
+28151,Shelby,NC,28150,Spatial join to ZCTA,6
+28137,Richfield,NC,28137,Zip matches ZCTA,0
+28138,Rockwell,NC,28138,Zip matches ZCTA,1
+28144,Salisbury,NC,28144,Zip matches ZCTA,26
+28145,Salisbury,NC,28144,Spatial join to ZCTA,26
+28147,Salisbury,NC,28147,Zip matches ZCTA,1
+28152,Shelby,NC,28152,Zip matches ZCTA,5
+28159,Spencer,NC,28159,Zip matches ZCTA,8
+28160,Spindale,NC,28160,Zip matches ZCTA,2
+28163,Stanfield,NC,28163,Zip matches ZCTA,2
+28164,Stanley,NC,28164,Zip matches ZCTA,2
+28166,Troutman,NC,28166,Zip matches ZCTA,2
+28167,Union Mills,NC,28167,Zip matches ZCTA,1
+28168,Vale,NC,28168,Zip matches ZCTA,0
+28169,Waco,NC,28169,Zip matches ZCTA,0
+28170,Wadesboro,NC,28170,Zip matches ZCTA,1
+28173,Waxhaw,NC,28173,Zip matches ZCTA,11
+28174,Wingate,NC,28174,Zip matches ZCTA,3
+28201,Charlotte,NC,28280,Spatial join to ZCTA,0
+28280,Charlotte,NC,28280,Zip matches ZCTA,0
+28202,Charlotte,NC,28202,Zip matches ZCTA,11
+28242,Charlotte,NC,28202,Spatial join to ZCTA,11
+28246,Charlotte,NC,28202,Spatial join to ZCTA,11
+28263,Charlotte,NC,28202,Spatial join to ZCTA,11
+28281,Charlotte,NC,28202,Spatial join to ZCTA,11
+28284,Charlotte,NC,28202,Spatial join to ZCTA,11
+28285,Charlotte,NC,28202,Spatial join to ZCTA,11
+28288,Charlotte,NC,28202,Spatial join to ZCTA,11
+28203,Charlotte,NC,28203,Zip matches ZCTA,8
+28204,Charlotte,NC,28204,Zip matches ZCTA,11
+28230,Charlotte,NC,28204,Spatial join to ZCTA,11
+28231,Charlotte,NC,28204,Spatial join to ZCTA,11
+28232,Charlotte,NC,28204,Spatial join to ZCTA,11
+28233,Charlotte,NC,28204,Spatial join to ZCTA,11
+28234,Charlotte,NC,28204,Spatial join to ZCTA,11
+28235,Charlotte,NC,28204,Spatial join to ZCTA,11
+28236,Charlotte,NC,28204,Spatial join to ZCTA,11
+28237,Charlotte,NC,28204,Spatial join to ZCTA,11
+28255,Charlotte,NC,28204,Spatial join to ZCTA,11
+28205,Charlotte,NC,28205,Zip matches ZCTA,27
+28218,Charlotte,NC,28205,Spatial join to ZCTA,27
+28299,Charlotte,NC,28205,Spatial join to ZCTA,27
+28206,Charlotte,NC,28206,Zip matches ZCTA,17
+28207,Charlotte,NC,28207,Zip matches ZCTA,5
+28274,Charlotte,NC,28207,Spatial join to ZCTA,5
+28208,Charlotte,NC,28208,Zip matches ZCTA,26
+28219,Charlotte,NC,28208,Spatial join to ZCTA,26
+28228,Charlotte,NC,28208,Spatial join to ZCTA,26
+28243,Charlotte,NC,28208,Spatial join to ZCTA,26
+28254,Charlotte,NC,28208,Spatial join to ZCTA,26
+28258,Charlotte,NC,28208,Spatial join to ZCTA,26
+28260,Charlotte,NC,28208,Spatial join to ZCTA,26
+28265,Charlotte,NC,28208,Spatial join to ZCTA,26
+28266,Charlotte,NC,28208,Spatial join to ZCTA,26
+28272,Charlotte,NC,28208,Spatial join to ZCTA,26
+28275,Charlotte,NC,28208,Spatial join to ZCTA,26
+28289,Charlotte,NC,28208,Spatial join to ZCTA,26
+28290,Charlotte,NC,28208,Spatial join to ZCTA,26
+28296,Charlotte,NC,28208,Spatial join to ZCTA,26
+28209,Charlotte,NC,28209,Zip matches ZCTA,8
+28220,Charlotte,NC,28209,Spatial join to ZCTA,8
+28210,Charlotte,NC,28210,Zip matches ZCTA,7
+28287,Charlotte,NC,28210,Spatial join to ZCTA,7
+28211,Charlotte,NC,28211,Zip matches ZCTA,10
+28222,Charlotte,NC,28211,Spatial join to ZCTA,10
+28212,Charlotte,NC,28212,Zip matches ZCTA,9
+28229,Charlotte,NC,28212,Spatial join to ZCTA,9
+28215,Charlotte,NC,28215,Zip matches ZCTA,17
+28216,Charlotte,NC,28216,Zip matches ZCTA,20
+28297,Charlotte,NC,28216,Spatial join to ZCTA,20
+28217,Charlotte,NC,28217,Zip matches ZCTA,11
+28224,Charlotte,NC,28217,Spatial join to ZCTA,11
+28221,Charlotte,NC,28269,Spatial join to ZCTA,13
+28253,Charlotte,NC,28269,Spatial join to ZCTA,13
+28269,Charlotte,NC,28269,Zip matches ZCTA,13
+28226,Charlotte,NC,28226,Zip matches ZCTA,6
+28247,Charlotte,NC,28226,Spatial join to ZCTA,6
+28227,Charlotte,NC,28227,Zip matches ZCTA,8
+28241,Charlotte,NC,28278,Spatial join to ZCTA,7
+28278,Charlotte,NC,28278,Zip matches ZCTA,7
+28244,Charlotte,NC,28244,Zip matches ZCTA,0
+28262,Charlotte,NC,28262,Zip matches ZCTA,8
+28270,Charlotte,NC,28270,Zip matches ZCTA,8
+28271,Charlotte,NC,28277,Spatial join to ZCTA,13
+28277,Charlotte,NC,28277,Zip matches ZCTA,13
+28273,Charlotte,NC,28273,Zip matches ZCTA,7
+28282,Charlotte,NC,28282,Zip matches ZCTA,0
+28301,Fayetteville,NC,28301,Zip matches ZCTA,22
+28302,Fayetteville,NC,28301,Spatial join to ZCTA,22
+28303,Fayetteville,NC,28303,Zip matches ZCTA,8
+28304,Fayetteville,NC,28304,Zip matches ZCTA,2
+28305,Fayetteville,NC,28305,Zip matches ZCTA,6
+28306,Fayetteville,NC,28306,Zip matches ZCTA,1
+28331,Cumberland,NC,28306,Spatial join to ZCTA,1
+28307,Fort Bragg,NC,28307,Zip matches ZCTA,0
+28308,Pope Army Airfield,NC,28308,Zip matches ZCTA,0
+28309,Fayetteville,NC,28314,Spatial join to ZCTA,2
+28314,Fayetteville,NC,28314,Zip matches ZCTA,2
+28310,Fort Bragg,NC,28310,Zip matches ZCTA,0
+28311,Fayetteville,NC,28311,Zip matches ZCTA,1
+28312,Fayetteville,NC,28312,Zip matches ZCTA,1
+28315,Aberdeen,NC,28315,Zip matches ZCTA,7
+28318,Autryville,NC,28318,Zip matches ZCTA,0
+28319,Barnesville,NC,28369,Spatial join to ZCTA,0
+28369,Orrum,NC,28369,Zip matches ZCTA,0
+28320,Bladenboro,NC,28320,Zip matches ZCTA,0
+28323,Bunnlevel,NC,28323,Zip matches ZCTA,1
+28325,Calypso,NC,28325,Zip matches ZCTA,1
+28326,Cameron,NC,28326,Zip matches ZCTA,0
+28327,Carthage,NC,28327,Zip matches ZCTA,2
+28328,Clinton,NC,28328,Zip matches ZCTA,4
+28329,Clinton,NC,28328,Spatial join to ZCTA,4
+28330,Cordova,NC,28330,Zip matches ZCTA,0
+28332,Dublin,NC,28332,Zip matches ZCTA,0
+28333,Dudley,NC,28333,Zip matches ZCTA,0
+28334,Dunn,NC,28334,Zip matches ZCTA,6
+28335,Dunn,NC,28334,Spatial join to ZCTA,6
+28337,Elizabethtown,NC,28337,Zip matches ZCTA,4
+28338,Ellerbe,NC,28338,Zip matches ZCTA,0
+28339,Erwin,NC,28339,Zip matches ZCTA,4
+28340,Fairmont,NC,28340,Zip matches ZCTA,3
+28362,Marietta,NC,28340,Spatial join to ZCTA,3
+28341,Faison,NC,28341,Zip matches ZCTA,0
+28342,Falcon,NC,28342,Zip matches ZCTA,0
+28343,Gibson,NC,28343,Zip matches ZCTA,0
+28344,Godwin,NC,28344,Zip matches ZCTA,0
+28345,Hamlet,NC,28345,Zip matches ZCTA,4
+28347,Hoffman,NC,28347,Zip matches ZCTA,0
+28348,Hope Mills,NC,28348,Zip matches ZCTA,2
+28349,Kenansville,NC,28349,Zip matches ZCTA,0
+28350,Lakeview,NC,28350,Zip matches ZCTA,0
+28351,Laurel Hill,NC,28351,Zip matches ZCTA,1
+28352,Laurinburg,NC,28352,Zip matches ZCTA,3
+28353,Laurinburg,NC,28352,Spatial join to ZCTA,3
+28356,Linden,NC,28356,Zip matches ZCTA,0
+28357,Lumber Bridge,NC,28357,Zip matches ZCTA,0
+28378,Rex,NC,28357,Spatial join to ZCTA,0
+28358,Lumberton,NC,28358,Zip matches ZCTA,10
+28359,Lumberton,NC,28358,Spatial join to ZCTA,10
+28360,Lumberton,NC,28360,Zip matches ZCTA,2
+28363,Marston,NC,28363,Zip matches ZCTA,0
+28364,Maxton,NC,28364,Zip matches ZCTA,2
+28365,Mount Olive,NC,28365,Zip matches ZCTA,3
+28366,Newton Grove,NC,28366,Zip matches ZCTA,0
+28367,Norman,NC,28367,Zip matches ZCTA,0
+28370,Pinehurst,NC,28374,Spatial join to ZCTA,6
+28374,Pinehurst,NC,28374,Zip matches ZCTA,6
+28371,Parkton,NC,28371,Zip matches ZCTA,1
+28372,Pembroke,NC,28372,Zip matches ZCTA,4
+28373,Pinebluff,NC,28373,Zip matches ZCTA,2
+28375,Proctorville,NC,28375,Zip matches ZCTA,0
+28376,Raeford,NC,28376,Zip matches ZCTA,5
+28377,Red Springs,NC,28377,Zip matches ZCTA,6
+28379,Rockingham,NC,28379,Zip matches ZCTA,5
+28380,Rockingham,NC,28379,Spatial join to ZCTA,5
+28382,Roseboro,NC,28382,Zip matches ZCTA,0
+28383,Rowland,NC,28383,Zip matches ZCTA,0
+28384,Saint Pauls,NC,28384,Zip matches ZCTA,3
+28385,Salemburg,NC,28385,Zip matches ZCTA,0
+28386,Shannon,NC,28386,Zip matches ZCTA,0
+28387,Southern Pines,NC,28387,Zip matches ZCTA,12
+28388,Southern Pines,NC,28387,Spatial join to ZCTA,12
+28390,Spring Lake,NC,28390,Zip matches ZCTA,3
+28391,Stedman,NC,28391,Zip matches ZCTA,0
+28392,Tar Heel,NC,28392,Zip matches ZCTA,0
+28393,Turkey,NC,28393,Zip matches ZCTA,0
+28394,Vass,NC,28394,Zip matches ZCTA,0
+28395,Wade,NC,28395,Zip matches ZCTA,0
+28396,Wagram,NC,28396,Zip matches ZCTA,0
+28398,Warsaw,NC,28398,Zip matches ZCTA,2
+28399,White Oak,NC,28399,Zip matches ZCTA,0
+28401,Wilmington,NC,28401,Zip matches ZCTA,28
+28402,Wilmington,NC,28401,Spatial join to ZCTA,28
+28403,Wilmington,NC,28403,Zip matches ZCTA,13
+28406,Wilmington,NC,28403,Spatial join to ZCTA,13
+28404,Wilmington,NC,28411,Spatial join to ZCTA,5
+28411,Wilmington,NC,28411,Zip matches ZCTA,5
+28405,Wilmington,NC,28405,Zip matches ZCTA,9
+28407,Wilmington,NC,28405,Spatial join to ZCTA,9
+28408,Wilmington,NC,28409,Spatial join to ZCTA,6
+28409,Wilmington,NC,28409,Zip matches ZCTA,6
+28410,Wilmington,NC,28412,Spatial join to ZCTA,8
+28412,Wilmington,NC,28412,Zip matches ZCTA,8
+28420,Ash,NC,28420,Zip matches ZCTA,0
+28421,Atkinson,NC,28421,Zip matches ZCTA,0
+28422,Bolivia,NC,28422,Zip matches ZCTA,1
+28423,Bolton,NC,28423,Zip matches ZCTA,0
+28424,Brunswick,NC,28424,Zip matches ZCTA,0
+28425,Burgaw,NC,28425,Zip matches ZCTA,5
+28428,Carolina Beach,NC,28428,Zip matches ZCTA,6
+28429,Castle Hayne,NC,28429,Zip matches ZCTA,4
+28430,Cerro Gordo,NC,28430,Zip matches ZCTA,0
+28431,Chadbourn,NC,28431,Zip matches ZCTA,0
+28432,Clarendon,NC,28432,Zip matches ZCTA,0
+28433,Clarkton,NC,28433,Zip matches ZCTA,0
+28434,Council,NC,28434,Zip matches ZCTA,0
+28435,Currie,NC,28435,Zip matches ZCTA,0
+28436,Delco,NC,28436,Zip matches ZCTA,0
+28438,Evergreen,NC,28438,Zip matches ZCTA,0
+28439,Fair Bluff,NC,28439,Zip matches ZCTA,0
+28441,Garland,NC,28441,Zip matches ZCTA,0
+28442,Hallsboro,NC,28442,Zip matches ZCTA,0
+28443,Hampstead,NC,28443,Zip matches ZCTA,3
+28444,Harrells,NC,28444,Zip matches ZCTA,0
+28445,Holly Ridge,NC,28445,Zip matches ZCTA,5
+28447,Ivanhoe,NC,28447,Zip matches ZCTA,0
+28448,Kelly,NC,28448,Zip matches ZCTA,0
+28449,Kure Beach,NC,28449,Zip matches ZCTA,3
+28450,Lake Waccamaw,NC,28450,Zip matches ZCTA,0
+28451,Leland,NC,28451,Zip matches ZCTA,9
+28452,Longwood,NC,28452,Zip matches ZCTA,0
+28453,Magnolia,NC,28453,Zip matches ZCTA,0
+28454,Maple Hill,NC,28454,Zip matches ZCTA,0
+28455,Nakina,NC,28455,Zip matches ZCTA,0
+28456,Riegelwood,NC,28456,Zip matches ZCTA,0
+28457,Rocky Point,NC,28457,Zip matches ZCTA,1
+28458,Rose Hill,NC,28458,Zip matches ZCTA,0
+28459,Shallotte,NC,28470,Spatial join to ZCTA,2
+28470,Shallotte,NC,28470,Zip matches ZCTA,2
+28460,Sneads Ferry,NC,28460,Zip matches ZCTA,1
+28461,Southport,NC,28461,Zip matches ZCTA,19
+28462,Supply,NC,28462,Zip matches ZCTA,0
+28463,Tabor City,NC,28463,Zip matches ZCTA,1
+28464,Teachey,NC,28464,Zip matches ZCTA,0
+28465,Oak Island,NC,28465,Zip matches ZCTA,5
+28466,Wallace,NC,28466,Zip matches ZCTA,3
+28467,Calabash,NC,28467,Zip matches ZCTA,1
+28468,Sunset Beach,NC,28468,Zip matches ZCTA,1
+28469,Ocean Isle Beach,NC,28469,Zip matches ZCTA,2
+28472,Whiteville,NC,28472,Zip matches ZCTA,4
+28478,Willard,NC,28478,Zip matches ZCTA,0
+28479,Winnabow,NC,28479,Zip matches ZCTA,0
+28480,Wrightsville Beach,NC,28480,Zip matches ZCTA,2
+28501,Kinston,NC,28501,Zip matches ZCTA,7
+28502,Kinston,NC,28501,Spatial join to ZCTA,7
+28503,Kinston,NC,28504,Spatial join to ZCTA,2
+28504,Kinston,NC,28504,Zip matches ZCTA,2
+28508,Albertson,NC,28508,Zip matches ZCTA,0
+28509,Alliance,NC,28515,Spatial join to ZCTA,0
+28515,Bayboro,NC,28515,Zip matches ZCTA,0
+28510,Arapahoe,NC,28510,Zip matches ZCTA,0
+28511,Atlantic,NC,28511,Zip matches ZCTA,0
+28512,Atlantic Beach,NC,28512,Zip matches ZCTA,4
+28513,Ayden,NC,28513,Zip matches ZCTA,2
+28516,Beaufort,NC,28516,Zip matches ZCTA,5
+28518,Beulaville,NC,28518,Zip matches ZCTA,0
+28519,Bridgeton,NC,28519,Zip matches ZCTA,0
+28520,Cedar Island,NC,28520,Zip matches ZCTA,0
+28521,Chinquapin,NC,28521,Zip matches ZCTA,0
+28522,Comfort,NC,28585,Spatial join to ZCTA,0
+28585,Trenton,NC,28585,Zip matches ZCTA,0
+28523,Cove City,NC,28523,Zip matches ZCTA,0
+28524,Davis,NC,28524,Zip matches ZCTA,0
+28525,Deep Run,NC,28525,Zip matches ZCTA,0
+28526,Dover,NC,28526,Zip matches ZCTA,0
+28527,Ernul,NC,28527,Zip matches ZCTA,0
+28528,Gloucester,NC,28528,Zip matches ZCTA,0
+28529,Grantsboro,NC,28529,Zip matches ZCTA,0
+28530,Grifton,NC,28530,Zip matches ZCTA,3
+28531,Harkers Island,NC,28531,Zip matches ZCTA,0
+28532,Havelock,NC,28532,Zip matches ZCTA,5
+28533,Cherry Point,NC,28533,Zip matches ZCTA,0
+28537,Hobucken,NC,28537,Zip matches ZCTA,0
+28538,Hookerton,NC,28538,Zip matches ZCTA,0
+28539,Hubert,NC,28539,Zip matches ZCTA,3
+28540,Jacksonville,NC,28540,Zip matches ZCTA,9
+28541,Jacksonville,NC,28540,Spatial join to ZCTA,9
+28545,McCutcheon Field,NC,28540,Spatial join to ZCTA,9
+28542,Camp Lejeune,NC,28547,Spatial join to ZCTA,0
+28547,Camp Lejeune,NC,28547,Zip matches ZCTA,0
+28543,Tarawa Terrace,NC,28543,Zip matches ZCTA,1
+28544,Midway Park,NC,28544,Zip matches ZCTA,3
+28546,Jacksonville,NC,28546,Zip matches ZCTA,5
+28551,La Grange,NC,28551,Zip matches ZCTA,1
+28552,Lowland,NC,28552,Zip matches ZCTA,0
+28553,Marshallberg,NC,28553,Zip matches ZCTA,0
+28554,Maury,NC,28554,Zip matches ZCTA,0
+28555,Maysville,NC,28555,Zip matches ZCTA,0
+28556,Merritt,NC,28556,Zip matches ZCTA,0
+28557,Morehead City,NC,28557,Zip matches ZCTA,8
+28560,New Bern,NC,28560,Zip matches ZCTA,10
+28563,New Bern,NC,28560,Spatial join to ZCTA,10
+28564,New Bern,NC,28560,Spatial join to ZCTA,10
+28561,New Bern,NC,28562,Spatial join to ZCTA,9
+28562,New Bern,NC,28562,Zip matches ZCTA,9
+28570,Newport,NC,28570,Zip matches ZCTA,5
+28571,Oriental,NC,28571,Zip matches ZCTA,0
+28572,Pink Hill,NC,28572,Zip matches ZCTA,0
+28573,Pollocksville,NC,28573,Zip matches ZCTA,0
+28574,Richlands,NC,28574,Zip matches ZCTA,0
+28575,Salter Path,NC,28575,Zip matches ZCTA,1
+28577,Sealevel,NC,28577,Zip matches ZCTA,0
+28578,Seven Springs,NC,28578,Zip matches ZCTA,0
+28579,Smyrna,NC,28579,Zip matches ZCTA,0
+28580,Snow Hill,NC,28580,Zip matches ZCTA,0
+28581,Stacy,NC,28581,Zip matches ZCTA,0
+28582,Stella,NC,28582,Zip matches ZCTA,0
+28583,Stonewall,NC,28583,Zip matches ZCTA,0
+28584,Swansboro,NC,28584,Zip matches ZCTA,13
+28586,Vanceboro,NC,28586,Zip matches ZCTA,0
+28587,Vandemere,NC,28587,Zip matches ZCTA,0
+28589,Williston,NC,28589,Zip matches ZCTA,0
+28590,Winterville,NC,28590,Zip matches ZCTA,6
+28594,Emerald Isle,NC,28594,Zip matches ZCTA,3
+28601,Hickory,NC,28601,Zip matches ZCTA,15
+28602,Hickory,NC,28602,Zip matches ZCTA,11
+28603,Hickory,NC,28602,Spatial join to ZCTA,11
+28604,Banner Elk,NC,28604,Zip matches ZCTA,0
+28605,Blowing Rock,NC,28605,Zip matches ZCTA,0
+28606,Boomer,NC,28606,Zip matches ZCTA,0
+28607,Boone,NC,28607,Zip matches ZCTA,16
+28608,Boone,NC,28607,Spatial join to ZCTA,16
+28609,Catawba,NC,28609,Zip matches ZCTA,1
+28610,Claremont,NC,28610,Zip matches ZCTA,1
+28611,Collettsville,NC,28611,Zip matches ZCTA,0
+28612,Connelly Springs,NC,28612,Zip matches ZCTA,3
+28613,Conover,NC,28613,Zip matches ZCTA,8
+28615,Creston,NC,28615,Zip matches ZCTA,1
+28616,Crossnore,NC,28616,Zip matches ZCTA,0
+28617,Crumpler,NC,28617,Zip matches ZCTA,0
+28618,Deep Gap,NC,28618,Zip matches ZCTA,0
+28619,Drexel,NC,28619,Zip matches ZCTA,3
+28621,Elkin,NC,28621,Zip matches ZCTA,3
+28622,Elk Park,NC,28622,Zip matches ZCTA,1
+28623,Ennice,NC,28623,Zip matches ZCTA,0
+28624,Ferguson,NC,28624,Zip matches ZCTA,0
+28625,Statesville,NC,28625,Zip matches ZCTA,4
+28688,Turnersburg,NC,28625,Spatial join to ZCTA,4
+28699,Scotts,NC,28625,Spatial join to ZCTA,4
+28626,Fleetwood,NC,28626,Zip matches ZCTA,0
+28627,Glade Valley,NC,28627,Zip matches ZCTA,0
+28628,Glen Alpine,NC,28628,Zip matches ZCTA,0
+28629,Glendale Springs,NC,28629,Zip matches ZCTA,0
+28630,Granite Falls,NC,28630,Zip matches ZCTA,3
+28631,Grassy Creek,NC,28631,Zip matches ZCTA,0
+28633,Lenoir,NC,28645,Spatial join to ZCTA,9
+28645,Lenoir,NC,28645,Zip matches ZCTA,9
+28661,Patterson,NC,28645,Spatial join to ZCTA,9
+28634,Harmony,NC,28634,Zip matches ZCTA,0
+28635,Hays,NC,28635,Zip matches ZCTA,0
+28636,Hiddenite,NC,28636,Zip matches ZCTA,0
+28637,Hildebran,NC,28637,Zip matches ZCTA,1
+28638,Hudson,NC,28638,Zip matches ZCTA,2
+28640,Jefferson,NC,28640,Zip matches ZCTA,1
+28641,Jonas Ridge,NC,28657,Spatial join to ZCTA,1
+28653,Montezuma,NC,28657,Spatial join to ZCTA,1
+28657,Newland,NC,28657,Zip matches ZCTA,1
+28664,Plumtree,NC,28657,Spatial join to ZCTA,1
+28642,Jonesville,NC,28642,Zip matches ZCTA,1
+28643,Lansing,NC,28643,Zip matches ZCTA,0
+28644,Laurel Springs,NC,28644,Zip matches ZCTA,0
+28646,Linville,NC,28646,Zip matches ZCTA,0
+28647,Linville Falls,NC,28647,Zip matches ZCTA,0
+28649,Mc Grady,NC,28649,Zip matches ZCTA,0
+28650,Maiden,NC,28650,Zip matches ZCTA,3
+28651,Millers Creek,NC,28651,Zip matches ZCTA,0
+28652,Minneapolis,NC,28652,Zip matches ZCTA,0
+28654,Moravian Falls,NC,28654,Zip matches ZCTA,1
+28655,Morganton,NC,28655,Zip matches ZCTA,35
+28680,Morganton,NC,28655,Spatial join to ZCTA,35
+28656,North Wilkesboro,NC,28659,Spatial join to ZCTA,6
+28659,North Wilkesboro,NC,28659,Zip matches ZCTA,6
+28658,Newton,NC,28658,Zip matches ZCTA,7
+28660,Olin,NC,28660,Zip matches ZCTA,0
+28662,Pineola,NC,28662,Zip matches ZCTA,0
+28663,Piney Creek,NC,28663,Zip matches ZCTA,0
+28665,Purlear,NC,28665,Zip matches ZCTA,0
+28666,Icard,NC,28666,Zip matches ZCTA,0
+28667,Rhodhiss,NC,28667,Zip matches ZCTA,1
+28668,Roaring Gap,NC,28668,Zip matches ZCTA,0
+28669,Roaring River,NC,28669,Zip matches ZCTA,0
+28670,Ronda,NC,28670,Zip matches ZCTA,0
+28671,Rutherford College,NC,28671,Zip matches ZCTA,1
+28672,Scottville,NC,28672,Zip matches ZCTA,0
+28673,Sherrills Ford,NC,28673,Zip matches ZCTA,0
+28675,Sparta,NC,28675,Zip matches ZCTA,0
+28676,State Road,NC,28676,Zip matches ZCTA,0
+28678,Stony Point,NC,28678,Zip matches ZCTA,0
+28679,Sugar Grove,NC,28679,Zip matches ZCTA,1
+28691,Valle Crucis,NC,28679,Spatial join to ZCTA,1
+28681,Taylorsville,NC,28681,Zip matches ZCTA,2
+28682,Terrell,NC,28682,Zip matches ZCTA,0
+28683,Thurmond,NC,28683,Zip matches ZCTA,0
+28684,Todd,NC,28684,Zip matches ZCTA,0
+28685,Traphill,NC,28685,Zip matches ZCTA,0
+28689,Union Grove,NC,28689,Zip matches ZCTA,0
+28690,Valdese,NC,28690,Zip matches ZCTA,3
+28692,Vilas,NC,28692,Zip matches ZCTA,1
+28693,Warrensville,NC,28693,Zip matches ZCTA,0
+28694,West Jefferson,NC,28694,Zip matches ZCTA,3
+28697,Wilkesboro,NC,28697,Zip matches ZCTA,5
+28698,Zionville,NC,28698,Zip matches ZCTA,0
+28701,Alexander,NC,28701,Zip matches ZCTA,0
+28702,Almond,NC,28702,Zip matches ZCTA,0
+28704,Arden,NC,28704,Zip matches ZCTA,6
+28776,Skyland,NC,28704,Spatial join to ZCTA,6
+28705,Bakersville,NC,28705,Zip matches ZCTA,1
+28707,Balsam,NC,28707,Zip matches ZCTA,0
+28708,Balsam Grove,NC,28708,Zip matches ZCTA,1
+28709,Barnardsville,NC,28709,Zip matches ZCTA,0
+28710,Bat Cave,NC,28792,Spatial join to ZCTA,13
+28724,Dana,NC,28792,Spatial join to ZCTA,13
+28727,Edneyville,NC,28792,Spatial join to ZCTA,13
+28760,Naples,NC,28792,Spatial join to ZCTA,13
+28792,Hendersonville,NC,28792,Zip matches ZCTA,13
+28711,Black Mountain,NC,28711,Zip matches ZCTA,4
+28770,Ridgecrest,NC,28711,Spatial join to ZCTA,4
+28712,Brevard,NC,28712,Zip matches ZCTA,5
+28713,Bryson City,NC,28713,Zip matches ZCTA,0
+28714,Burnsville,NC,28714,Zip matches ZCTA,1
+28755,Micaville,NC,28714,Spatial join to ZCTA,1
+28715,Candler,NC,28715,Zip matches ZCTA,4
+28728,Enka,NC,28715,Spatial join to ZCTA,4
+28716,Canton,NC,28716,Zip matches ZCTA,3
+28717,Cashiers,NC,28717,Zip matches ZCTA,0
+28718,Cedar Mountain,NC,28718,Zip matches ZCTA,0
+28719,Cherokee,NC,28719,Zip matches ZCTA,0
+28720,Chimney Rock,NC,28720,Zip matches ZCTA,0
+28721,Clyde,NC,28721,Zip matches ZCTA,2
+28722,Columbus,NC,28722,Zip matches ZCTA,0
+28723,Cullowhee,NC,28723,Zip matches ZCTA,0
+28725,Dillsboro,NC,28725,Zip matches ZCTA,1
+28726,East Flat Rock,NC,28726,Zip matches ZCTA,1
+28729,Etowah,NC,28729,Zip matches ZCTA,0
+28730,Fairview,NC,28730,Zip matches ZCTA,0
+28731,Flat Rock,NC,28731,Zip matches ZCTA,4
+28732,Fletcher,NC,28732,Zip matches ZCTA,1
+28733,Fontana Dam,NC,28733,Zip matches ZCTA,0
+28734,Franklin,NC,28734,Zip matches ZCTA,4
+28744,Franklin,NC,28734,Spatial join to ZCTA,4
+28735,Gerton,NC,28735,Zip matches ZCTA,0
+28736,Glenville,NC,28736,Zip matches ZCTA,0
+28737,Glenwood,NC,28752,Spatial join to ZCTA,8
+28752,Marion,NC,28752,Zip matches ZCTA,8
+28738,Hazelwood,NC,28786,Spatial join to ZCTA,2
+28786,Waynesville,NC,28786,Zip matches ZCTA,2
+28739,Hendersonville,NC,28739,Zip matches ZCTA,8
+28793,Hendersonville,NC,28739,Spatial join to ZCTA,8
+28740,Green Mountain,NC,28740,Zip matches ZCTA,1
+28741,Highlands,NC,28741,Zip matches ZCTA,0
+28742,Horse Shoe,NC,28742,Zip matches ZCTA,1
+28743,Hot Springs,NC,28743,Zip matches ZCTA,1
+28745,Lake Junaluska,NC,28745,Zip matches ZCTA,1
+28746,Lake Lure,NC,28746,Zip matches ZCTA,0
+28747,Lake Toxaway,NC,28747,Zip matches ZCTA,0
+28748,Leicester,NC,28748,Zip matches ZCTA,0
+28749,Little Switzerland,NC,28749,Zip matches ZCTA,0
+28750,Lynn,NC,28782,Spatial join to ZCTA,12
+28782,Tryon,NC,28782,Zip matches ZCTA,12
+28751,Maggie Valley,NC,28751,Zip matches ZCTA,0
+28753,Marshall,NC,28753,Zip matches ZCTA,1
+28754,Mars Hill,NC,28754,Zip matches ZCTA,1
+28756,Mill Spring,NC,28756,Zip matches ZCTA,0
+28757,Montreat,NC,28757,Zip matches ZCTA,0
+28758,Mountain Home,NC,28791,Spatial join to ZCTA,2
+28791,Hendersonville,NC,28791,Zip matches ZCTA,2
+28759,Mills River,NC,28759,Zip matches ZCTA,1
+28761,Nebo,NC,28761,Zip matches ZCTA,0
+28762,Old Fort,NC,28762,Zip matches ZCTA,0
+28763,Otto,NC,28763,Zip matches ZCTA,0
+28765,Penland,NC,28777,Spatial join to ZCTA,4
+28777,Spruce Pine,NC,28777,Zip matches ZCTA,4
+28766,Penrose,NC,28766,Zip matches ZCTA,0
+28768,Pisgah Forest,NC,28768,Zip matches ZCTA,1
+28771,Robbinsville,NC,28771,Zip matches ZCTA,1
+28772,Rosman,NC,28772,Zip matches ZCTA,1
+28773,Saluda,NC,28773,Zip matches ZCTA,1
+28774,Sapphire,NC,28774,Zip matches ZCTA,0
+28775,Scaly Mountain,NC,28775,Zip matches ZCTA,0
+28778,Swannanoa,NC,28778,Zip matches ZCTA,2
+28779,Sylva,NC,28779,Zip matches ZCTA,6
+28788,Webster,NC,28779,Spatial join to ZCTA,6
+28781,Topton,NC,28781,Zip matches ZCTA,0
+28783,Tuckasegee,NC,28783,Zip matches ZCTA,0
+28784,Tuxedo,NC,28790,Spatial join to ZCTA,0
+28790,Zirconia,NC,28790,Zip matches ZCTA,0
+28785,Waynesville,NC,28785,Zip matches ZCTA,0
+28787,Weaverville,NC,28787,Zip matches ZCTA,3
+28789,Whittier,NC,28789,Zip matches ZCTA,0
+28801,Asheville,NC,28801,Zip matches ZCTA,28
+28802,Asheville,NC,28801,Spatial join to ZCTA,28
+28803,Asheville,NC,28803,Zip matches ZCTA,16
+28813,Asheville,NC,28803,Spatial join to ZCTA,16
+28804,Asheville,NC,28804,Zip matches ZCTA,6
+28814,Asheville,NC,28804,Spatial join to ZCTA,6
+28805,Asheville,NC,28805,Zip matches ZCTA,7
+28815,Asheville,NC,28805,Spatial join to ZCTA,7
+28806,Asheville,NC,28806,Zip matches ZCTA,15
+28810,Asheville,NC,28806,Spatial join to ZCTA,15
+28816,Asheville,NC,28806,Spatial join to ZCTA,15
+28901,Andrews,NC,28901,Zip matches ZCTA,0
+28902,Brasstown,NC,28902,Zip matches ZCTA,0
+28903,Culberson,NC,28906,Spatial join to ZCTA,1
+28906,Murphy,NC,28906,Zip matches ZCTA,1
+28904,Hayesville,NC,28904,Zip matches ZCTA,1
+28905,Marble,NC,28905,Zip matches ZCTA,0
+28909,Warne,NC,28909,Zip matches ZCTA,0
