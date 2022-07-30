@@ -23,7 +23,9 @@ Utilizing group programming for collaboration, meetings are conducted during cla
    * Adding conditional up or down column to capture if a median listing price had increased or decreased month over month. Converted to 1 or 0 for graphing
    * Balanced random forest classifier to see accuracy
    * Did Clustering to classify information
-   * Took key variable and creating visuals across the state of North Carolina
+   * Took key variable and creating visuals across the state of North Carolin
+   * Trying to account for NA's and outliers to fine tune data. 
+   
 ## Machine Learnining Model
 - Takes in joined data from datasets 
 
