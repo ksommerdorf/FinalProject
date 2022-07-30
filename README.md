@@ -22,6 +22,8 @@ Utilizing group programming for collaboration, meetings are conducted during cla
    * Duplicate rows and columns were a problem at first until cleaned in Python. 
    * Adding conditional up or down column to capture if a median listing price had increased or decreased month over month. Converted to 1 or 0 for graphing
    * Balanced random forest classifier to see accuracy
+   * Did Clustering to classify information
+   * Took key variable and creating visuals across the state of North Carolina
 ## Machine Learnining Model
 - Takes in joined data from datasets 
     * model type
