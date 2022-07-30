@@ -14,6 +14,7 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 - Questions interested in answering with data
     * Is the average listing price still rising? Current status suggest the housing market cycle as present may last for several years.
 
+## Outline 
 
 ## Machine Learnining Model
 - Takes in joined data from datasets 
