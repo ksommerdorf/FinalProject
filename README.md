@@ -13,11 +13,20 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 
 - Questions interested in answering with data
     * Is the average listing price still rising? Current status suggest the housing market cycle as present may last for several years.
-
+## Outline
+   * Finding our different CSV's from across the internet starting with Realtor.com. 
+   * Looked for additional features to compare to median listing price. Features included violent crime rate, number of schools, parks, and 30 year fixed rate. 
+   * Combining all CSV's into one main database through both SQL and Pandas joins. 
+   * Dropping NA's and changing Data time format. 
+   * Make sure join where correct by cleaning data to fit. 
+   * Duplicate rows and columns were a problem at first until cleaned in Python. 
+   * Adding conditional up or down column to capture if a median listing price had increased or decreased month over month. Converted to 1 or 0 for graphing
+   * Balanced random forest classifier to see accuracy
+   * Did Clustering to classify information
+   * Took key variable and creating visuals across the state of North Carolina
 ## Machine Learnining Model
 - Takes in joined data from datasets 
 
-    * model type - David and Courtney tested unsupervised and supervised learning.  They determined the dataset was too large and we will need to narrow the number of features used for analysis. 
 Kayla tested decision trees and clustering with varying degrees of success. Krisha created histograms of the various features to allow us to better understand the data.
 ![Feature Histogram](https://github.com/ksommerdorf/FinalProject/blob/main/images/Histogram_features.png)
 
