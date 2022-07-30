@@ -21,7 +21,7 @@ Utilizing group programming for collaboration, meetings are conducted during cla
    * Make sure join where correct by cleaning data to fit. 
    * Duplicate rows and columns were a problem at first until cleaned in Python. 
    * Adding conditional up or down column to capture if a median listing price had increased or decreased month over month. Converted to 1 or 0 for graphing
-    * Balanced random forest classifier to see accuracy
+   * Balanced random forest classifier to see accuracy
 ## Machine Learnining Model
 - Takes in joined data from datasets 
     * model type
