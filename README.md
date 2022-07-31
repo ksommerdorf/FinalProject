@@ -23,20 +23,27 @@ Utilizing group programming for collaboration, meetings are conducted during cla
    * Adding conditional up or down column to capture if a median listing price had increased or decreased month over month. Converted to 1 or 0 for graphing
    * Balanced random forest classifier to see accuracy
    * Did Clustering to classify information
-   * Took key variable and creating visuals across the state of North Carolina
+
+
+   * Took key variable and creating visuals across the state of North Carolin
+   * Trying to account for NA's and outliers to fine tune data. 
+   
+
 ## Machine Learnining Model
 - Takes in joined data from datasets 
-    * model type
-    * training setup
+
+Kayla tested decision trees and clustering with varying degrees of success. Krisha created histograms of the various features to allow us to better understand the data.
+![Feature Histogram](https://github.com/ksommerdorf/FinalProject/blob/main/images/Histogram_features.png)
+
+* training setup - We will split data into training and testing components.  We will drop median house price for prediction analysis.  Courtney has also created a new binary column "price increase or decrease" that will be an output of the trained model.
     * what is accuracy and evaluation protocol: To be addressed in later stage
-    * how does it work?
     * the type and why: to be selected after testing different models for fit.
 
 - connected to database (SQL)
     *  ERD of the database: Entity Relationship (ER) Diagram that 
-            illustrates how datasets are relate to each other within a system. 
-            Current primary key is postal code of housing lists.
-        
+            illustrates how datasets are related to each other within a system. 
+            Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
+            ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
 
 ## Technology to be Used
