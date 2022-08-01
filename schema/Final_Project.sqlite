@@ -109,25 +109,43 @@ create table school_park_county_population as (
 	on a.countyname = b.countyname)
 	
 	
--- JOIN # 4 create table from join school_park_county_population and nc_crime or NC_hotness
+-- JOIN # 4 create table from join school_park_county_population and nc_crime.
+
+create table school_park_county_population_crime as (
+select a.*, b.data_rates_property_all, b.data_rates_violent_all, b.data_totals_property_all,
+	b.data_totals_violent_all
+		
+	from school_park_county_population a
+	inner join nc_crime b
+	using(year)
+);
+
+
+-- JOIN # 5 create table from  school_park_county_population_crime and NC hotness,
+-- complete joins to form database. 6/6 tables
+
+select *
+		
+	from school_park_county_population_crime 
+	inner join nc_hotness 
+	using(county_fips)
+
+-- **** getting error:join/using types character varying and 
+--double precison cannot be matched
 
 
 
+-- commands to view, rename, alter, count rows
 
 
+ALTER TABLE school_park_county_population_crime
+RENAME COLUMN  stcountyfp TO county_fips;
 
+ALTER TABLE school_park_county_population_crime
+alter column county_fips float;
 
+select * from nc_hotness;
 
+drop table nc_hotness;
 
-
--- commands to view, rename, count rows
-
-
-ALTER TABLE census_by_county
-RENAME COLUMN ctyname TO countyname;
-
-select * from school_park_county_population;
-
-drop table zip_county_data_nc;
-
-select count(*) from school_park_county_population;
+select count(*) from school_park_county_population_crime;
