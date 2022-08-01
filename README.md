@@ -54,4 +54,4 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
 
 - Database: PostgresSQL and connect with SQLAlchemy
 - data cleaning and ML model: pandas and pandas ML-environment
-- Dashboard: Tableau
+- Dashboard: [Tableau] (https://public.tableau.com/views/RealEstateProject_16586455498320/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
