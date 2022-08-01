@@ -29,7 +29,7 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 ![Kmeans=2](https://github.com/ksommerdorf/FinalProject/blob/6731844bf8bfa161e4dd18a9d2b4fbedf2e0d05e/images/FP_clusters_k2.PNG)
 
 
-   * Took key variable and creating visuals across the state of North Carolin
+   * Took key variable and creating visuals across the state of North Carolina
    * Trying to account for NA's and outliers to fine tune data. 
    
 
@@ -55,3 +55,6 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
 - Database: PostgresSQL and connect with SQLAlchemy
 - data cleaning and ML model: pandas and pandas ML-environment
 - Dashboard: [Tableau](https://public.tableau.com/views/RealEstateProject_16586455498320/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+   * Interactions: able to click on each county and see the individual value for that county; this will develop into being able to select a certain County and have all the statistics for that county show on the dashboard
+   * Tools: interactive map; line chart showing housing prices over time; correlations maps to show the important feature's impact on the overall median housing price
+   
