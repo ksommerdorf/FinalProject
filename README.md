@@ -1,3 +1,4 @@
+
 # Final Project
 
 # Communication Protocols
@@ -58,3 +59,4 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
    * Interactions: able to click on each county and see the individual value for that county; this will develop into being able to select a certain County and have all the statistics for that county show on the dashboard
    * Tools: interactive map; line chart showing housing prices over time; correlations maps to show the important feature's impact on the overall median housing price
    
+
