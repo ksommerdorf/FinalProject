@@ -78,5 +78,7 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 ### Future Directions:
 
 -In future we can acquire the crime data for the missing years and also try to further investigate on the many different features of importance that help in prediction of the target and include them to the original data set.
+
 -With more time given we can work on tweaking the zillow API to get in the real estate features to increase the volume of the data for the ML models.
+
 -In future we can hypertune the classifier and regression model parameters to calculate the confusion matrix and to increase the accuracy score.
