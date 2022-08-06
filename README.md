@@ -20,8 +20,10 @@ Over the last couple of years, Covid pandemic and the low supply of houses with 
 - Number of school count and park count CSVs are sourced from NaNDA (National Neighborhood Data Archive) repo hosted at [openICPSR](https://nanda.isr.umich.edu/data/)
 
 ### Objectives of the study:
-    * Is the average listing price still increasing or is flattening? 
+    * Is the median listing price still increasing or is going to flatten? 
     * Current status suggest the housing market cycle as present may last for several years.
+    
+![Boxplot_median_listing_price.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Boxplot_median_listing_price.png)
 ## Outline
    * Finding our different data CSV's from across the internet starting with Realtor.com. 
    * Looked for additional features to compare to median listing price. Features included violent crime rate, number of schools, parks, and 30 year fixed rate. 
@@ -58,7 +60,7 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
             ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
 - Tried both the Supervised and Unsupervised Machine learning models. Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
-
+![Accurarcy_score_MLmodels.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Accurarcy_score_MLmodels.png)
 
 ### Tools And Libraries Used
 
