@@ -1,21 +1,27 @@
 
 # Final Project
+![Housing_image.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Housing_image.png)
 
-# Communication Protocols
-Utilizing group programming for collaboration, meetings are conducted during class and scheduled outside class using Slack app to communicate amongst team members. A group chat is used to keep everyone in the loop as ideas and work progresses. 
 
 # Project Overview
 
-## Selected Topic: Real estate market predictions
-- reason: A pandemic, low supply with a high demand driving the prices of homes drastically up, and increasing mortgage rates. This  has skewed the housing market and made it difficult for homebuyers to purchase property. 
-- source data: Datasets are taken from [Realtor.com](https://www.realtor.com/research/data/), selected CSVs of interest include:
-    * the RDC Core Metrics by Zipcode Inventory of historical data
-    * zipcode latitude and longitude data sourced from [Github repo](https://github.com/midwire/free_zipcode_data/blob/5f831e3918488751a701b583a419ca3e1d44d93f/all_us_zipcodes.csv)
+## North Carolina Real Estate Market Prediction 
+
+Over the last couple of years, Covid pandemic and the low supply of houses with a high demand is driving the prices of homes drastically up, and increasing mortgage rates. This has skewed the housing market and made it difficult for homebuyers to purchase property. So we are interested in analyzing the real estate data which is changing over time.
+
+### Source data: 
+
+- Datasets:[Realtor.com](https://www.realtor.com/research/data/), selected CSVs of interest include:
     
-    * the school count and park count CSVs are sourced from NaNDA (National Neighborhood Data Archive) repo hosted at [openICPSR](https://nanda.isr.umich.edu/data/)
+    * RDC Core Metrics by Zipcode Inventory of historical data
     
-- Questions interested in answering with data
-    * Is the average listing price still rising? Current status suggest the housing market cycle as present may last for several years.
+    * Zipcode latitude and longitude data sourced from [Github repo](https://github.com/midwire/free_zipcode_data/blob/5f831e3918488751a701b583a419ca3e1d44d93f/all_us_zipcodes.csv)
+    
+    * Number of school count and park count CSVs are sourced from NaNDA (National Neighborhood Data Archive) repo hosted at [openICPSR](https://nanda.isr.umich.edu/data/)
+
+### Objectives of the study:
+    * Is the average listing price still rising? 
+    * Current status suggest the housing market cycle as present may last for several years.
 ## Outline
    * Finding our different CSV's from across the internet starting with Realtor.com. 
    * Looked for additional features to compare to median listing price. Features included violent crime rate, number of schools, parks, and 30 year fixed rate. 
@@ -60,3 +66,5 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
    * Tools: interactive map; line chart showing housing prices over time; correlations maps to show the important feature's impact on the overall median housing price
    
 
+# Communication Protocols
+Utilizing group programming for collaboration, meetings are conducted during class and scheduled outside class using Slack app to communicate amongst team members. A group chat is used to keep everyone in the loop as ideas and work progresses. 
