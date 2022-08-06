@@ -62,7 +62,7 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
 - Tried both the Supervised and Unsupervised Machine learning models. Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
 ![Accurarcy_score_MLmodels.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Accurarcy_score_MLmodels.png)
 
-### Tools And Libraries Used
+### Tools And Libraries Used:
 
 - Database: PostgresSQL and connect with SQLAlchemy
 - Data cleaning and ML model: pandas and pandas ML-environment
@@ -71,5 +71,12 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
    * Tools: interactive map; line chart showing housing prices over time; correlations maps to show the important feature's impact on the overall median housing price
    
 
-# Communication Protocols
+### Communication Protocols:
+
 Utilizing group programming for collaboration, meetings are conducted during class and scheduled outside class using Slack app to communicate amongst team members. A group chat is used to keep everyone in the loop as ideas and work progresses. 
+
+### Future Directions:
+
+-In future we can acquire the crime data for the missing years and also try to further investigate on the many different features of importance that help in prediction of the target and include them to the original data set.
+-With more time given we can work on tweaking the zillow API to get in the real estate features to increase the volume of the data for the ML models.
+-In future we can hypertune the classifier and regression model parameters to calculate the confusion matrix and to increase the accuracy score.
