@@ -62,7 +62,7 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
             ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
 - Tried both the Supervised and Unsupervised Machine learning models. Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
-![Accurarcy_score_MLmodels.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Accurarcy_score_MLmodels.png)
+![Accuracy_score.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Accuracy_score.png)
 
 ### Tools And Libraries Used:
 
@@ -79,8 +79,10 @@ Utilizing group programming for collaboration, meetings are conducted during cla
 
 ### Future Directions:
 
--In future we can acquire the crime data for the missing years and also try to further investigate on the many different features of importance that help in prediction of the target and include them to the original data set.
+-In future we can acquire the crime data for the missing years and also try to further investigate on the many different features of importance that help in prediction of the target and include them to the original data set. For example grocery stores count per zipcode as food deserts have an impact on housing prices. School ratings, public transportation and taxrates in each of the county.
 
 -With more time given we can work on tweaking the zillow API to get in the real estate features to increase the volume of the data for the ML models.
 
 -In future we can hypertune the classifier and regression model parameters to calculate the confusion matrix and to increase the accuracy score.
+
+-With the given time we were unable to try some of the basic neural network models and Deep learning models. 
