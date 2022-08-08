@@ -68,7 +68,7 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
 
 - Database: PostgresSQL and connect with SQLAlchemy
 - Data cleaning and ML model: pandas and pandas ML-environment
-- Dashboard: [Tableau](https://public.tableau.com/views/RealEstateProject_16586455498320/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Dashboard: [Tableau](https://public.tableau.com/app/profile/kayla.sommerdorf/viz/RealEstateProject_16586455498320/Countydata)
    * Interactions: able to click on each county and see the individual value for that county; this will develop into being able to select a certain County and have all the statistics for that county show on the dashboard
    * Tools: interactive map; line chart showing housing prices over time; correlations maps to show the important feature's impact on the overall median housing price
    
