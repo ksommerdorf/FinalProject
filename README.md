@@ -73,10 +73,6 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
    * Tools: interactive map; line chart showing housing prices over time; correlations maps to show the important feature's impact on the overall median housing price
    
 
-### Communication Protocols:
-
-Utilizing group programming for collaboration, meetings are conducted during class and scheduled outside class using Slack app to communicate amongst team members. A group chat is used to keep everyone in the loop as ideas and work progresses. 
-
 ### Future Directions:
 
 -In future we can acquire the crime data for the missing years and also try to further investigate on the many different features of importance that help in prediction of the target and include them to the original data set. For example grocery stores count per zipcode as food deserts have an impact on housing prices. School ratings, public transportation and taxrates in each of the county.
