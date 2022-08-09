@@ -61,7 +61,16 @@ Kayla tested decision trees and clustering with varying degrees of success. Kris
             Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
             ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
 
-- Tried both the Supervised and Unsupervised Machine learning models. Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
+- Tried both the Supervised and Unsupervised Machine learning models.
+  * adaboostClassifier with hypertuning
+  * RandomForest Classifier 
+  * GradientBoostClassifier
+  * Support Vector Model Regressor
+  * Baysian ridge Regression
+  * RandomForest Regressor
+
+
+Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
 ![Accuracy_score.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Accuracy_score.png)
 
 ### Tools And Libraries Used:
