@@ -49,7 +49,7 @@ Over the last couple of years, Covid pandemic and the low supply of houses with 
     *  ERD of the database: Entity Relationship (ER) Diagram that 
             illustrates how datasets are related to each other within a system. 
             Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
-            ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
+            ![ERD](https://github.com/ksommerdorf/FinalProject/blob/main/images/newERD.png)
             
 ## Machine Learnining Model
 - Takes in joined data from datasets 
