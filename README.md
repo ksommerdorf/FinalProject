@@ -45,21 +45,26 @@ Over the last couple of years, Covid pandemic and the low supply of houses with 
    * Since the crime data and the school data not available for all the counties for years 2019-2021, the data started appearing sparse so we considered only the Data until 2018. Given more time we would have searched other sources to fill in the gaps.
    
 
+- Connected to database (SQL)
+    *  ERD of the database: Entity Relationship (ER) Diagram that 
+            illustrates how datasets are related to each other within a system. 
+            Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
+            ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
+            
 ## Machine Learnining Model
 - Takes in joined data from datasets 
 
 Kayla tested decision trees and clustering with varying degrees of success. Krishna created histograms of the various features to allow us to better understand the data.
 ![Feature Histogram](https://github.com/ksommerdorf/FinalProject/blob/main/images/Histogram_features.png)
 
-* Training setup - We will split data into training and testing components.  We will drop median house price for prediction analysis.  Courtney has also created a new binary column "price increase or decrease" that will be an output of the trained model.
-    * what is accuracy and evaluation protocol?
-    * clustering with kmeans tested at 2 and 3 to find distinct groups within the data set. The kmeans tested at 3 separates the larger class.
+* Training setup 
+    - We applied *train_test_split* function from sklearn.model_selection tp split data into training and testing components.  We dropped median house price for prediction analysis for the Regressor models.  Courtney has also created a new binary column "price increase or decrease" that will be an output of the trained model. 
+    - To encode categorical features as a one-hot numeric array we applied the *OneHotEncoder* from sklearn preprocessing module.
+    - To standardize the features by removing the mean and scaling to unit variance we applied the *StandardScaler* from sklearn preprocessing module.
 
-- Connected to database (SQL)
-    *  ERD of the database: Entity Relationship (ER) Diagram that 
-            illustrates how datasets are related to each other within a system. 
-            Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
-            ![ERD](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/ERD.png)
+   
+* clustering with kmeans tested at 2 and 3 to find distinct groups within the data set. The kmeans tested at 3 separates the larger class.
+
 
 - Tried both the Supervised and Unsupervised Machine learning models.
   * adaboostClassifier with hypertuning
