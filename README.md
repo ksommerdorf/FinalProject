@@ -25,14 +25,25 @@ Covid had far reaches affects in all areas of our economy.  The housing market i
 [Dashboard](https://public.tableau.com/app/profile/kayla.sommerdorf/viz/RealEstateProject_16586455498320/Countydata)
 
 ## ETL and Database
+![ETL](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/images/ETL.png)
 
-   * Finding our different data CSV's from across the internet starting with Realtor.com. 
-   * Looked for additional features to compare to median listing price. Features included violent crime rate, number of schools, parks, and 30 year fixed rate. 
-   * Combining all CSV's into one main database through both SQL and Pandas joins. 
-   * Dropping NA's and changing Date time format. 
-   * Make sure SQL joins worked correctly and then cleaning data to fit to the models. 
-   * Duplicate rows and columns were a problem at first but the data was cleaned in Python using pandas.
-   * Adding conditional column up or down to capture if a median listing price had increased or decreased month over month. Converted to 1 or 0 for graphing.
+   * Extracted original data set from Realtor.com. It contained traditional features such as: median listing price (our target), the price change in percent over time, average days on the market, number of active and new listings by county, number of homes with a price increase or price decrease (also by county), median square feet.  This information ranged from 2016 to 2022. Our initial exploration showed the growth in the median listing price year over year, and while there were obvious outliers most of the data seemed fairly consistent. 
+   * We decided our data set was too limited and we needed to introduce more variability with additional features.
+   * We sourced additional data such as crime statistics, number of parks and number of schools in a given area.
+   * The various data sets had descrapencies in the time format, column names, and the geographical boundries. 
+   * Utilized Pandas to drop null values and duplicate columns, rename columns to be consistent across datasets, change time formating.
+   * Sourced an additional data set to convert Lat and Longs and ZCTAs (ZIP code tabulation areas - generalized areal representations derived from the USPS ZIP codes and used by the US Census Bureau) to counties and ZIP codes.  
+   * Crime statistics and interest rates were created in excel based off pdf files and website tables.
+   * Used both Pandas and SQL to merge and join the datasets.
+   * Created a conditional column to use in classifier models based of the median_listing_price_mm column. This new column indicated if the price increased or decreased from the previous month. It was converted to 1 or 0 for graphing.
+   * Created Entity Relationship Diagram (ERD) create tables.
+   * Utilized PostgreSQL to join final tables. Used bit.io connect database.
+   ![ERD](https://github.com/ksommerdorf/FinalProject/blob/main/images/newERD.png)
+   
+   
+   
+   
+   
    * Balanced random forest classifier to see accuracy score.
    * Did Clustering to classify the data points.
    
@@ -44,10 +55,7 @@ Covid had far reaches affects in all areas of our economy.  The housing market i
    * Since the crime data and the school data not available for all the counties for years 2019-2021, the data started appearing sparse so we considered only the Data until 2018. Given more time we would have searched other sources to fill in the gaps.
    
 
-- Connected to database (SQL)
-    *  ERD of the database: Entity Relationship (ER) Diagram that 
-            illustrates how datasets are related to each other within a system. 
-            Current primary key is postal code of housing lists. Lindsey created the ERD and Kayla created joins in postgress.
+
             ![ERD](https://github.com/ksommerdorf/FinalProject/blob/main/images/newERD.png)
             
 ## Machine Learnining Model
