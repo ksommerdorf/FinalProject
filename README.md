@@ -55,9 +55,9 @@ Covid has affected all areas of our economy.  The housing market is a prime exam
 Both output and feature selection of random forest models are easy to interpret, and they can easily handle outliers and nonlinear data.
 For our purposes, we used a random forest classifier with the n_estimators parameter set to 100, max_depth=6, criterion='log_loss', random_state=1.
 - Because the accuracy score did not increase, we tested the adaboost classifer with the algorithm = 'SAMME' and GradientBoostClassifier loss='deviance',criterion='squared_error', a slight increase in score observed compared to the RandomForest.
-    - We slightly altered our question, moving towards Regression algorithms that can be used to determine continuous values such as price, income, age, etc.
+- We slightly altered our question, moving towards Regression algorithms that can be used to determine continuous values such as price, income, age, etc.
 Instead of the Price Status we changed our target variable to Median Listing Price and tested the SVM and Baysian Ridge Regression models. RandomForestRegressor with the random grid search parameters of n_estimators=200, max_features='sqrt', criterion= 'absolute_error' yielded the score of 0.96. With naive knowledge in the machine learning world and the limited dataset, we assumed the change in prediction due to some of the hypertune parameters is adequate.
-   - Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
+- Model evaluation and accuracy score were calculated for each to better predict the features that are driving the target.
 ![Accuracy_score.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Accuracy_score_final.png)
 
    #### Pre-processing
