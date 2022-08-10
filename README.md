@@ -25,7 +25,7 @@ Covid has affected all areas of our economy.  The housing market is a prime exam
 
 ![dashboard](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/images/County%20data.png)
 
-[Dashboard](https://public.tableau.com/app/profile/kayla.sommerdorf/viz/RealEstateProject_16586455498320/Countydata)
+[Dashboard](https://public.tableau.com/app/profile/kayla.sommerdorf/viz/RealEstateProject_16586455498320/MainDashboard)
 * Interactivity: click on each county for individual values and statistics in the interactive map, line charts that show median listing price over time, feature clusters showing importance and correlations.
 
 ## ETL and Database
