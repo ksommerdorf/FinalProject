@@ -15,12 +15,17 @@ Covid had far reaches affects in all areas of our economy.  The housing market i
 - Mortgage rates from  [FreddieMac](https://www.freddiemac.com/pmms/)
 
 ### Questions We Hope to Answer
-
-    * Will the median listing price continue to increase, decrease, or flatten? 
-    * What are the traditional and non-traditional factors that affect house pricing?
+- Will the median listing price continue to increase, decrease, or flatten? 
+- What are the traditional and non-traditional factors that affect house pricing?
     
-![Boxplot_median_listing_price.png](https://github.com/ksommerdorf/FinalProject/blob/main/images/Boxplot_median_listing_price.png)
-## Outline
+![median listing price over time](https://github.com/ksommerdorf/FinalProject/blob/Lindsey/images/Median%20Listing%20Price%20Over%20Time.png)
+
+### Presentation and Dashboard
+[Google Slide Presentation](https://docs.google.com/presentation/d/1wJsflZfQ9gO1fWTTSt_opnDnW5grGbB2pMslM_kqhKI/edit?usp=sharing) and 
+[Dashboard](https://public.tableau.com/app/profile/kayla.sommerdorf/viz/RealEstateProject_16586455498320/Countydata)
+
+## ETL and Database
+
    * Finding our different data CSV's from across the internet starting with Realtor.com. 
    * Looked for additional features to compare to median listing price. Features included violent crime rate, number of schools, parks, and 30 year fixed rate. 
    * Combining all CSV's into one main database through both SQL and Pandas joins. 
